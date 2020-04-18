@@ -1,0 +1,514 @@
+#,Event,Date,Venue,Location,Attendance,url
+513,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Ginásio Nilson Nelson,"Brasília, Brazil",0,https://en.wikipedia.org/wiki/UFC_Fight_Night:_Lee_vs._Oliveira
+512,UFC 248: Adesanya vs. Romero,2020-03-07,T-Mobile Arena,"Las Vegas, Nevada, U.S.","15,077",https://en.wikipedia.org/wiki/UFC_248
+511,UFC Fight Night: Benavidez vs. Figueiredo,2020-02-29,Chartway Arena,"Norfolk, Virginia, U.S.","7,098",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Benavidez_vs._Figueiredo
+510,UFC Fight Night: Felder vs. Hooker,2020-02-23,Spark Arena,"Auckland, New Zealand","10,025",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Felder_vs._Hooker
+509,UFC Fight Night: Anderson vs. Błachowicz 2,2020-02-15,Santa Ana Star Center,"Rio Rancho, New Mexico, U.S.","6,449",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Anderson_vs._B%C5%82achowicz_2
+508,UFC 247: Jones vs. Reyes,2020-02-08,Toyota Center,"Houston, Texas, U.S.","17,401",https://en.wikipedia.org/wiki/UFC_247
+507,UFC Fight Night: Blaydes vs. dos Santos,2020-01-25,PNC Arena,"Raleigh, North Carolina, U.S.","14,533",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Blaydes_vs._dos_Santos
+506,UFC 246: McGregor vs. Cowboy,2020-01-18,T-Mobile Arena,"Las Vegas, Nevada, U.S.","19,040",https://en.wikipedia.org/wiki/UFC_246
+505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,"Busan, South Korea","10,651",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Edgar_vs._The_Korean_Zombie
+504,UFC 245: Usman vs. Covington,2019-12-14,T-Mobile Arena,"Las Vegas, Nevada, U.S.","16,811",https://en.wikipedia.org/wiki/UFC_245
+503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,"Washington, D.C., U.S.","10,816",https://en.wikipedia.org/wiki/UFC_on_ESPN:_Overeem_vs._Rozenstruik
+502,UFC Fight Night: Błachowicz vs. Jacaré,2019-11-16,Ginásio do Ibirapuera,"São Paulo, Brazil","10,344",https://en.wikipedia.org/wiki/UFC_Fight_Night:_B%C5%82achowicz_vs._Jacar%C3%A9
+501,UFC Fight Night: Magomedsharipov vs. Kattar,2019-11-09,CSKA Arena,"Moscow, Russia","11,305",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Magomedsharipov_vs._Kattar
+500,UFC 244: Masvidal vs. Diaz,2019-11-02,Madison Square Garden,"New York City, New York, U.S.","20,143",https://en.wikipedia.org/wiki/UFC_244
+499,UFC Fight Night: Maia vs. Askren,2019-10-26,Singapore Indoor Stadium,"Kallang, Singapore","7,155",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Maia_vs._Askren
+498,UFC on ESPN: Reyes vs. Weidman,2019-10-18,TD Garden,"Boston, Massachusetts, U.S.","12,066",https://en.wikipedia.org/wiki/UFC_on_ESPN:_Reyes_vs._Weidman
+497,UFC Fight Night: Joanna vs. Waterson,2019-10-12,Amalie Arena,"Tampa, Florida, U.S.","10,597",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Joanna_vs._Waterson
+496,UFC 243: Whittaker vs. Adesanya,2019-10-05,Marvel Stadium,"Melbourne, Australia","57,127",https://en.wikipedia.org/wiki/UFC_243
+495,UFC Fight Night: Hermansson vs. Cannonier,2019-09-28,Royal Arena,"Copenhagen, Denmark","12,767",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hermansson_vs._Cannonier
+494,UFC Fight Night: Rodríguez vs. Stephens,2019-09-21,Arena Ciudad de México,"Mexico City, Mexico","10,112",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rodr%C3%ADguez_vs._Stephens
+493,UFC Fight Night: Cowboy vs. Gaethje,2019-09-14,Rogers Arena,"Vancouver, British Columbia, Canada","15,114",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cowboy_vs._Gaethje
+492,UFC 242: Khabib vs. Poirier,2019-09-07,"The Arena, Yas Island","Abu Dhabi, United Arab Emirates",N/A,https://en.wikipedia.org/wiki/UFC_242
+491,UFC Fight Night: Andrade vs. Zhang,2019-08-31,Shenzhen Universiade Sports Centre,"Shenzhen, China","10,302",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Andrade_vs._Zhang
+490,UFC 241: Cormier vs. Miocic 2,2019-08-17,Honda Center,"Anaheim, California, U.S.","17,304",https://en.wikipedia.org/wiki/UFC_241
+489,UFC Fight Night: Shevchenko vs. Carmouche 2,2019-08-10,Antel Arena,"Montevideo, Uruguay","9,225",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Shevchenko_vs._Carmouche_2
+488,UFC on ESPN: Covington vs. Lawler,2019-08-03,Prudential Center,"Newark, New Jersey, U.S.","10,427",https://en.wikipedia.org/wiki/UFC_on_ESPN:_Covington_vs._Lawler
+487,UFC 240: Holloway vs. Edgar,2019-07-27,Rogers Place,"Edmonton, Alberta, Canada","12,144",https://en.wikipedia.org/wiki/UFC_240
+486,UFC on ESPN: dos Anjos vs. Edwards,2019-07-20,AT&T Center,"San Antonio, Texas, U.S.","9,255",https://en.wikipedia.org/wiki/UFC_on_ESPN:_dos_Anjos_vs._Edwards
+485,UFC Fight Night: de Randamie vs. Ladd,2019-07-13,Golden 1 Center,"Sacramento, California, U.S.","10,306",https://en.wikipedia.org/wiki/UFC_Fight_Night:_de_Randamie_vs._Ladd
+484,UFC 239: Jones vs. Santos,2019-07-06,T-Mobile Arena,"Las Vegas, Nevada, U.S.","18,358",https://en.wikipedia.org/wiki/UFC_239
+483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,"Minneapolis, Minnesota, U.S.","10,123",https://en.wikipedia.org/wiki/UFC_on_ESPN:_Ngannou_vs._dos_Santos
+482,UFC Fight Night: Moicano vs. The Korean Zombie,2019-06-22,Bon Secours Wellness Arena,"Greenville, South Carolina, U.S.","7,682",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Moicano_vs._The_Korean_Zombie
+481,UFC 238: Cejudo vs. Moraes,2019-06-08,United Center,"Chicago, Illinois, U.S.","16,083",https://en.wikipedia.org/wiki/UFC_238
+480,UFC Fight Night: Gustafsson vs. Smith,2019-06-01,Ericsson Globe,"Stockholm, Sweden","14,319",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Gustafsson_vs._Smith
+479,UFC Fight Night: dos Anjos vs. Lee,2019-05-18,Blue Cross Arena,"Rochester, New York, U.S.","8,132",https://en.wikipedia.org/wiki/UFC_Fight_Night:_dos_Anjos_vs._Lee
+478,UFC 237: Namajunas vs. Andrade,2019-05-11,Jeunesse Arena,"Rio de Janeiro, Brazil","15,193",https://en.wikipedia.org/wiki/UFC_237
+477,UFC Fight Night: Iaquinta vs. Cowboy,2019-05-04,Canadian Tire Centre,"Ottawa, Ontario, Canada","10,960",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Iaquinta_vs._Cowboy
+476,UFC Fight Night: Jacaré vs. Hermansson,2019-04-27,BB&T Center,"Sunrise, Florida, U.S.","12,754",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Jacar%C3%A9_vs._Hermansson
+475,UFC Fight Night: Overeem vs. Oleinik,2019-04-20,Yubileyny Sports Palace,"Saint Petersburg, Russia","7,236",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Overeem_vs._Oleinik
+474,UFC 236: Holloway vs. Poirier 2,2019-04-13,State Farm Arena,"Atlanta, Georgia, U.S.","14,297",https://en.wikipedia.org/wiki/UFC_236
+473,UFC on ESPN: Barboza vs. Gaethje,2019-03-30,Wells Fargo Center,"Philadelphia, Pennsylvania, U.S.","11,123",https://en.wikipedia.org/wiki/UFC_on_ESPN:_Barboza_vs._Gaethje
+472,UFC Fight Night: Thompson vs. Pettis,2019-03-23,Bridgestone Arena,"Nashville, Tennessee, U.S.","10,863",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Thompson_vs._Pettis
+471,UFC Fight Night: Till vs. Masvidal,2019-03-16,The O2 Arena,"London, England, U.K.","16,602",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Till_vs._Masvidal
+470,UFC Fight Night: Lewis vs. dos Santos,2019-03-09,Intrust Bank Arena,"Wichita, Kansas, U.S.","7,265",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Lewis_vs._dos_Santos
+469,UFC 235: Jones vs. Smith,2019-03-02,T-Mobile Arena,"Las Vegas, Nevada, U.S","14,790",https://en.wikipedia.org/wiki/UFC_235
+468,UFC Fight Night: Błachowicz vs. Santos,2019-02-23,O2 arena,"Prague, Czech Republic","16,583",https://en.wikipedia.org/wiki/UFC_Fight_Night:_B%C5%82achowicz_vs._Santos
+467,UFC on ESPN: Ngannou vs. Velasquez,2019-02-17,Talking Stick Resort Arena,"Phoenix, Arizona, U.S.","14,269",https://en.wikipedia.org/wiki/UFC_on_ESPN:_Ngannou_vs._Velasquez
+466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,"Melbourne, Australia","15,238",https://en.wikipedia.org/wiki/UFC_234
+465,UFC Fight Night: Assunção vs. Moraes 2,2019-02-02,Centro de Formação Olímpica do Nordeste,"Fortaleza, Brazil","10,040",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Assun%C3%A7%C3%A3o_vs._Moraes_2
+464,UFC Fight Night: Cejudo vs. Dillashaw,2019-01-19,Barclays Center,"Brooklyn, New York, U.S.","12,152",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cejudo_vs._Dillashaw
+463,UFC 232: Jones vs. Gustafsson 2,2018-12-29,The Forum,"Inglewood, California, U.S.","15,862",https://en.wikipedia.org/wiki/UFC_232
+462,UFC on Fox: Lee vs. Iaquinta 2,2018-12-15,Fiserv Forum,"Milwaukee, Wisconsin, U.S.","9,010",https://en.wikipedia.org/wiki/UFC_on_Fox:_Lee_vs._Iaquinta_2
+461,UFC 231: Holloway vs. Ortega,2018-12-08,Scotiabank Arena,"Toronto, Ontario, Canada","19,039",https://en.wikipedia.org/wiki/UFC_231
+460,UFC Fight Night: dos Santos vs. Tuivasa,2018-12-02,Adelaide Entertainment Centre,"Adelaide, Australia","8,652",https://en.wikipedia.org/wiki/UFC_Fight_Night:_dos_Santos_vs._Tuivasa
+459,The Ultimate Fighter: Heavy Hitters Finale,2018-11-30,Pearl Theatre,"Las Vegas, Nevada, U.S.","2,020",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Heavy_Hitters#The_Ultimate_Fighter_28_Finale
+458,UFC Fight Night: Blaydes vs. Ngannou 2,2018-11-24,Cadillac Arena,"Beijing, China","10,302",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Blaydes_vs._Ngannou_2
+457,UFC Fight Night: Magny vs. Ponzinibbio,2018-11-17,Estadio Mary Terán de Weiss,"Buenos Aires, Argentina","10,245",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Magny_vs._Ponzinibbio
+456,UFC Fight Night: The Korean Zombie vs. Rodríguez,2018-11-10,Pepsi Center,"Denver, Colorado, U.S.","11,426",https://en.wikipedia.org/wiki/UFC_Fight_Night:_The_Korean_Zombie_vs._Rodr%C3%ADguez
+455,UFC 230: Cormier vs. Lewis,2018-11-03,Madison Square Garden,"New York City, New York, U.S.","17,011",https://en.wikipedia.org/wiki/UFC_230
+454,UFC Fight Night: Volkan vs. Smith,2018-10-27,Avenir Centre,"Moncton, New Brunswick, Canada","6,282",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Volkan_vs._Smith
+453,UFC 229: Khabib vs. McGregor,2018-10-06,T-Mobile Arena,"Las Vegas, Nevada, U.S","20,034",https://en.wikipedia.org/wiki/UFC_229
+452,UFC Fight Night: Santos vs. Anders,2018-09-22,Ginásio do Ibirapuera,"São Paulo, Brazil","9,485",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Santos_vs._Anders
+451,UFC Fight Night: Hunt vs. Oleinik,2018-09-15,Olimpiyskiy Stadium,"Moscow, Russia","22,603",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hunt_vs._Oleinik
+450,UFC 228: Woodley vs. Till,2018-09-08,American Airlines Center,"Dallas, Texas, U.S.","14,073",https://en.wikipedia.org/wiki/UFC_228
+449,UFC Fight Night: Gaethje vs. Vick,2018-08-25,Pinnacle Bank Arena,"Lincoln, Nebraska, U.S.","6,409",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Gaethje_vs._Vick
+448,UFC 227: Dillashaw vs. Garbrandt 2,2018-08-04,Staples Center,"Los Angeles, California, U.S.","17,794",https://en.wikipedia.org/wiki/UFC_227
+447,UFC on Fox: Alvarez vs. Poirier 2,2018-07-28,Scotiabank Saddledome,"Calgary, Alberta, Canada","10,603",https://en.wikipedia.org/wiki/UFC_on_Fox:_Alvarez_vs._Poirier_2
+446,UFC Fight Night: Shogun vs. Smith,2018-07-22,Barclaycard Arena,"Hamburg, Germany","7,798",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Shogun_vs._Smith
+445,UFC Fight Night: dos Santos vs. Ivanov,2018-07-14,CenturyLink Arena,"Boise, Idaho, U.S.","5,648",https://en.wikipedia.org/wiki/UFC_Fight_Night:_dos_Santos_vs._Ivanov
+444,UFC 226: Miocic vs. Cormier,2018-07-07,T-Mobile Arena,"Las Vegas, Nevada, U.S","17,464",https://en.wikipedia.org/wiki/UFC_226
+443,The Ultimate Fighter: Undefeated Finale,2018-07-06,Palms Casino Resort,"Las Vegas, Nevada, U.S.","2,123",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Undefeated#The_Ultimate_Fighter_27_Finale
+442,UFC Fight Night: Cowboy vs. Edwards,2018-06-23,Singapore Indoor Stadium,"Kallang, Singapore","6,419",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cowboy_vs._Edwards
+441,UFC 225: Whittaker vs. Romero 2,2018-06-09,United Center,"Chicago, Illinois, U.S.","18,117",https://en.wikipedia.org/wiki/UFC_225
+440,UFC Fight Night: Rivera vs. Moraes,2018-06-01,Adirondack Bank Center,"Utica, New York, U.S.","5,063",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rivera_vs._Moraes
+439,UFC Fight Night: Thompson vs. Till,2018-05-27,Echo Arena,"Liverpool, England, U.K.","8,520",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Thompson_vs._Till
+438,UFC Fight Night: Maia vs. Usman,2018-05-19,Movistar Arena,"Santiago, Chile","11,082",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Maia_vs._Usman
+437,UFC 224: Nunes vs. Pennington,2018-05-12,Jeunesse Arena,"Rio de Janeiro, Brazil","10,696",https://en.wikipedia.org/wiki/UFC_224
+436,UFC Fight Night: Barboza vs. Lee,2018-04-21,Boardwalk Hall,"Atlantic City, New Jersey, U.S.","9,541",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Barboza_vs._Lee
+435,UFC on Fox: Poirier vs. Gaethje,2018-04-14,Gila River Arena,"Glendale, Arizona, U.S.","11,382",https://en.wikipedia.org/wiki/UFC_on_Fox:_Poirier_vs._Gaethje
+434,UFC 223: Khabib vs. Iaquinta,2018-04-07,Barclays Center,"Brooklyn, New York, U.S.","17,026",https://en.wikipedia.org/wiki/UFC_223
+433,UFC Fight Night: Werdum vs. Volkov,2018-03-17,The O2 Arena,"London, England, U.K.","16,274",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Werdum_vs._Volkov
+432,UFC 222: Cyborg vs. Kunitskaya,2018-03-03,T-Mobile Arena,"Las Vegas, Nevada, U.S.","12,041",https://en.wikipedia.org/wiki/UFC_222
+431,UFC on Fox: Emmett vs. Stephens,2018-02-24,Amway Center,"Orlando, Florida, U.S.","10,124",https://en.wikipedia.org/wiki/UFC_on_Fox:_Emmett_vs._Stephens
+430,UFC Fight Night: Cowboy vs. Medeiros,2018-02-18,Frank Erwin Center,"Austin, Texas, U.S.","10,502",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cowboy_vs._Medeiros
+429,UFC 221: Romero vs. Rockhold,2018-02-11,Perth Arena,"Perth, Australia","12,437",https://en.wikipedia.org/wiki/UFC_221
+428,UFC Fight Night: Machida vs. Anders,2018-02-03,Arena Guilherme Paraense,"Belém, Brazil","10,144",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Machida_vs._Anders
+427,UFC on Fox: Jacaré vs. Brunson 2,2018-01-27,Spectrum Center,"Charlotte, North Carolina, U.S.","10,249",https://en.wikipedia.org/wiki/UFC_on_Fox:_Jacar%C3%A9_vs._Brunson_2
+426,UFC 220: Miocic vs. Ngannou,2018-01-20,TD Garden,"Boston, Massachusetts, U.S.","16,015",https://en.wikipedia.org/wiki/UFC_220
+425,UFC Fight Night: Stephens vs. Choi,2018-01-14,Scottrade Center,"St. Louis, Missouri, U.S.","10,052",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Stephens_vs._Choi
+424,UFC 219: Cyborg vs. Holm,2017-12-30,T-Mobile Arena,"Las Vegas, Nevada, U.S.","13,561",https://en.wikipedia.org/wiki/UFC_219
+423,UFC on Fox: Lawler vs. dos Anjos,2017-12-16,Bell MTS Place,"Winnipeg, Manitoba, Canada","8,862",https://en.wikipedia.org/wiki/UFC_on_Fox:_Lawler_vs._dos_Anjos
+422,UFC Fight Night: Swanson vs. Ortega,2017-12-09,Save Mart Center,"Fresno, California, U.S.","7,605",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Swanson_vs._Ortega
+421,UFC 218: Holloway vs. Aldo 2,2017-12-02,Little Caesars Arena,"Detroit, Michigan, U.S.","17,587",https://en.wikipedia.org/wiki/UFC_218
+420,The Ultimate Fighter: A New World Champion Finale,2017-12-01,Park Theater,"Las Vegas, Nevada, U.S.",N/A,https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_A_New_World_Champion#The_Ultimate_Fighter_26_Finale
+419,UFC Fight Night: Bisping vs. Gastelum,2017-11-25,Mercedes-Benz Arena,"Shanghai, China","15,128",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bisping_vs._Gastelum
+418,UFC Fight Night: Werdum vs. Tybura,2017-11-19,Qudos Bank Arena,"Sydney, Australia","10,021",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Werdum_vs._Tybura
+417,UFC Fight Night: Poirier vs. Pettis,2017-11-11,Ted Constant Convocation Center,"Norfolk, Virginia, U.S.","8,442",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Poirier_vs._Pettis
+416,UFC 217: Bisping vs. St-Pierre,2017-11-04,Madison Square Garden,"New York City, New York, U.S.","18,201",https://en.wikipedia.org/wiki/UFC_217
+415,UFC Fight Night: Brunson vs. Machida,2017-10-28,Ginásio do Ibirapuera,"São Paulo, Brazil","10,265",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Brunson_vs._Machida
+414,UFC Fight Night: Cowboy vs. Till,2017-10-21,Ergo Arena,"Gdańsk, Poland","11,138",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cowboy_vs._Till
+413,UFC 216: Ferguson vs. Lee,2017-10-07,T-Mobile Arena,"Las Vegas, Nevada, U.S.","10,638",https://en.wikipedia.org/wiki/UFC_216
+412,UFC Fight Night: Saint Preux vs. Okami,2017-09-23,Saitama Super Arena,"Saitama, Japan","8,571",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Saint_Preux_vs._Okami
+411,UFC Fight Night: Rockhold vs. Branch,2017-09-16,PPG Paints Arena,"Pittsburgh, Pennsylvania, U.S.","7,005",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rockhold_vs._Branch
+410,UFC 215: Nunes vs. Shevchenko 2,2017-09-09,Rogers Place,"Edmonton, Alberta, Canada","16,232",https://en.wikipedia.org/wiki/UFC_215
+409,UFC Fight Night: Volkov vs. Struve,2017-09-02,Rotterdam Ahoy,"Rotterdam, Netherlands","10,224",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Volkov_vs._Struve
+408,UFC Fight Night: Pettis vs. Moreno,2017-08-05,Arena Ciudad de México,"Mexico City, Mexico","10,172",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Pettis_vs._Moreno
+407,UFC 214: Cormier vs. Jones 2,2017-07-29,Honda Center,"Anaheim, California, U.S.","16,610",https://en.wikipedia.org/wiki/UFC_214
+406,UFC on Fox: Weidman vs. Gastelum,2017-07-22,Nassau Veterans Memorial Coliseum,"Uniondale, New York, U.S.","11,198",https://en.wikipedia.org/wiki/UFC_on_Fox:_Weidman_vs._Gastelum
+405,UFC Fight Night: Nelson vs. Ponzinibbio,2017-07-16,The SSE Hydro,"Glasgow, Scotland, U.K.","10,589",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Nelson_vs._Ponzinibbio
+404,UFC 213: Romero vs. Whittaker,2017-07-08,T-Mobile Arena,"Las Vegas, Nevada, U.S.","12,834",https://en.wikipedia.org/wiki/UFC_213
+403,The Ultimate Fighter: Redemption Finale,2017-07-07,T-Mobile Arena,"Las Vegas, Nevada, U.S.","6,308",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Redemption#The_Ultimate_Fighter_25_Finale
+402,UFC Fight Night: Chiesa vs. Lee,2017-06-25,Chesapeake Energy Arena,"Oklahoma City, Oklahoma, U.S.","7,605",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Chiesa_vs._Lee
+401,UFC Fight Night: Holm vs. Correia,2017-06-17,Singapore Indoor Stadium,"Kallang, Singapore","8,414",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Holm_vs._Correia
+400,UFC Fight Night: Lewis vs. Hunt,2017-06-11,Spark Arena,"Auckland, New Zealand","8,649",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Lewis_vs._Hunt
+399,UFC 212: Aldo vs. Holloway,2017-06-03,Jeunesse Arena,"Rio de Janeiro, Brazil","15,412",https://en.wikipedia.org/wiki/UFC_212
+398,UFC Fight Night: Gustafsson vs. Teixeira,2017-05-28,Ericsson Globe,"Stockholm, Sweden","12,668",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Gustafsson_vs._Teixeira
+397,UFC 211: Miocic vs. dos Santos 2,2017-05-13,American Airlines Center,"Dallas, Texas, U.S.","17,834",https://en.wikipedia.org/wiki/UFC_211
+396,UFC Fight Night: Swanson vs. Lobov,2017-04-22,Bridgestone Arena,"Nashville, Tennessee, U.S.","10,144",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Swanson_vs._Lobov
+395,UFC on Fox: Johnson vs. Reis,2017-04-15,Sprint Center,"Kansas City, Missouri, U.S.","12,171",https://en.wikipedia.org/wiki/UFC_on_Fox:_Johnson_vs._Reis
+394,UFC 210: Cormier vs. Johnson 2,2017-04-08,KeyBank Center,"Buffalo, New York, U.S.","17,110",https://en.wikipedia.org/wiki/UFC_210
+393,UFC Fight Night: Manuwa vs. Anderson,2017-03-18,The O2 Arena,"London, England, U.K.","15,761",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Manuwa_vs._Anderson
+392,UFC Fight Night: Belfort vs. Gastelum,2017-03-11,Centro de Formação Olímpica do Nordeste,"Fortaleza, Brazil","14,069",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Belfort_vs._Gastelum
+391,UFC 209: Woodley vs. Thompson 2,2017-03-04,T-Mobile Arena,"Las Vegas, Nevada, U.S.","13,150",https://en.wikipedia.org/wiki/UFC_209
+390,UFC Fight Night: Lewis vs. Browne,2017-02-19,Scotiabank Centre,"Halifax, Nova Scotia, Canada","8,123",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Lewis_vs._Browne
+389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,"Brooklyn, New York, U.S.","15,628",https://en.wikipedia.org/wiki/UFC_208
+388,UFC Fight Night: Bermudez vs. The Korean Zombie,2017-02-04,Toyota Center,"Houston, Texas, U.S.","8,119",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bermudez_vs._The_Korean_Zombie
+387,UFC on Fox: Shevchenko vs. Peña,2017-01-28,Pepsi Center,"Denver, Colorado, U.S.","13,233",https://en.wikipedia.org/wiki/UFC_on_Fox:_Shevchenko_vs._Pe%C3%B1a
+386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,"Phoenix, Arizona, U.S.","11,589",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rodr%C3%ADguez_vs._Penn
+385,UFC 207: Nunes vs. Rousey,2016-12-30,T-Mobile Arena,"Las Vegas, Nevada, U.S.","18,533",https://en.wikipedia.org/wiki/UFC_207
+384,UFC on Fox: VanZant vs. Waterson,2016-12-17,Golden 1 Center,"Sacramento, California, U.S.","13,136",https://en.wikipedia.org/wiki/UFC_on_Fox:_VanZant_vs._Waterson
+383,UFC 206: Holloway vs. Pettis,2016-12-10,Scotiabank Arena,"Toronto, Ontario, Canada","18,057",https://en.wikipedia.org/wiki/UFC_206
+382,UFC Fight Night: Lewis vs. Abdurakhimov,2016-12-09,Times Union Center,"Albany, New York, U.S.","6,216",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Lewis_vs._Abdurakhimov
+381,The Ultimate Fighter: Tournament of Champions Finale,2016-12-03,Palms Casino Resort,"Las Vegas, Nevada, U.S.","2,044",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Tournament_of_Champions#The_Ultimate_Fighter_24_Finale
+380,UFC Fight Night: Whittaker vs. Brunson,2016-11-27,Rod Laver Arena,"Melbourne, Australia","13,721",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Whittaker_vs._Brunson
+379,UFC Fight Night: Bader vs. Nogueira 2,2016-11-19,Ginásio do Ibirapuera,"São Paulo, Brazil","9,028",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bader_vs._Nogueira_2
+378,UFC Fight Night: Mousasi vs. Hall 2,2016-11-19,The SSE Arena,"Belfast, Northern Ireland, U.K.","7,222",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Mousasi_vs._Hall_2
+377,UFC 205: Alvarez vs. McGregor,2016-11-12,Madison Square Garden,"New York City, New York, U.S.","20,427",https://en.wikipedia.org/wiki/UFC_205
+376,The Ultimate Fighter Latin America 3 Finale: dos Anjos vs. Ferguson,2016-11-05,Arena Ciudad de México,"Mexico City, Mexico","11,460",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Latin_America_3#The_Ultimate_Fighter_Latin_America_3_Finale:_dos_Anjos_vs._Ferguson
+375,UFC 204: Bisping vs. Henderson 2,2016-10-08,Manchester Arena,"Manchester, England, U.K.","16,000",https://en.wikipedia.org/wiki/UFC_204
+374,UFC Fight Night: Lineker vs. Dodson,2016-10-01,Moda Center,"Portland, Oregon, U.S.","6,240",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Lineker_vs._Dodson
+373,UFC Fight Night: Cyborg vs. Länsberg,2016-09-24,Ginásio Nilson Nelson,"Brasília, Brazil","8,410",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cyborg_vs._L%C3%A4nsberg
+372,UFC Fight Night: Poirier vs. Johnson,2016-09-17,State Farm Arena,"Hidalgo, Texas, U.S.","5,624",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Poirier_vs._Johnson
+371,UFC 203: Miocic vs. Overeem,2016-09-10,Quicken Loans Arena,"Cleveland, Ohio, U.S.","18,875",https://en.wikipedia.org/wiki/UFC_203
+370,UFC Fight Night: Arlovski vs. Barnett,2016-09-03,Barclaycard Arena,"Hamburg, Germany","11,763",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Arlovski_vs._Barnett
+369,UFC on Fox: Maia vs. Condit,2016-08-27,Rogers Arena,"Vancouver, British Columbia, Canada","10,533",https://en.wikipedia.org/wiki/UFC_on_Fox:_Maia_vs._Condit
+368,UFC 202: Diaz vs. McGregor 2,2016-08-20,T-Mobile Arena,"Las Vegas, Nevada, U.S","15,539",https://en.wikipedia.org/wiki/UFC_202
+367,UFC Fight Night: Rodríguez vs. Caceres,2016-08-06,Vivint Smart Home Arena,"Salt Lake City, Utah, U.S.","6,689",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rodr%C3%ADguez_vs._Caceres
+366,UFC 201: Lawler vs. Woodley,2016-07-30,Philips Arena,"Atlanta, Georgia, U.S.","10,240",https://en.wikipedia.org/wiki/UFC_201
+365,UFC on Fox: Holm vs. Shevchenko,2016-07-23,United Center,"Chicago, Illinois, U.S.","10,287",https://en.wikipedia.org/wiki/UFC_on_Fox:_Holm_vs._Shevchenko
+364,UFC Fight Night: McDonald vs. Lineker,2016-07-13,Denny Sanford Premier Center,"Sioux Falls, South Dakota, U.S.","5,671",https://en.wikipedia.org/wiki/UFC_Fight_Night:_McDonald_vs._Lineker
+363,UFC 200: Tate vs. Nunes,2016-07-09,T-Mobile Arena,"Las Vegas, Nevada, U.S","18,202",https://en.wikipedia.org/wiki/UFC_200
+362,The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale,2016-07-08,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","8,115",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Joanna_vs._Team_Cl%C3%A1udia#The_Ultimate_Fighter_23_Finale
+361,UFC Fight Night: dos Anjos vs. Alvarez,2016-07-07,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","7,760",https://en.wikipedia.org/wiki/UFC_Fight_Night:_dos_Anjos_vs._Alvarez
+360,UFC Fight Night: MacDonald vs. Thompson,2016-06-18,TD Place Arena,"Ottawa, Ontario, Canada","10,490",https://en.wikipedia.org/wiki/UFC_Fight_Night:_MacDonald_vs._Thompson
+359,UFC 199: Rockhold vs. Bisping 2,2016-06-04,The Forum,"Inglewood, California, U.S.","15,587",https://en.wikipedia.org/wiki/UFC_199
+358,UFC Fight Night: Almeida vs. Garbrandt,2016-05-29,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","5,193",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Almeida_vs._Garbrandt
+357,UFC 198: Werdum vs. Miocic,2016-05-14,Arena da Baixada,"Curitiba, Brazil","45,207",https://en.wikipedia.org/wiki/UFC_198
+356,UFC Fight Night: Overeem vs. Arlovski,2016-05-08,Rotterdam Ahoy,"Rotterdam, Netherlands","10,421",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Overeem_vs._Arlovski
+355,UFC 197: Jones vs. Saint Preux,2016-04-23,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","11,352",https://en.wikipedia.org/wiki/UFC_197
+354,UFC on Fox: Teixeira vs. Evans,2016-04-16,Amalie Arena,"Tampa, Florida, U.S.","11,273",https://en.wikipedia.org/wiki/UFC_on_Fox:_Teixeira_vs._Evans
+353,UFC Fight Night: Rothwell vs. dos Santos,2016-04-10,Arena Zagreb,"Zagreb, Croatia","13,177",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rothwell_vs._dos_Santos
+352,UFC Fight Night: Hunt vs. Mir,2016-03-20,Brisbane Entertainment Centre,"Brisbane, Australia","9,552",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hunt_vs._Mir
+351,UFC 196: McGregor vs. Diaz,2016-03-05,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,898",https://en.wikipedia.org/wiki/UFC_196
+350,UFC Fight Night: Silva vs. Bisping,2016-02-27,The O2 Arena,"London, England, U.K.","16,734",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Silva_vs._Bisping
+349,UFC Fight Night: Cowboy vs. Cowboy,2016-02-21,Consol Energy Center,"Pittsburgh, Pennsylvania, U.S.","7,330",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cowboy_vs._Cowboy
+348,UFC Fight Night: Hendricks vs. Thompson,2016-02-06,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","7,422",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hendricks_vs._Thompson
+347,UFC on Fox: Johnson vs. Bader,2016-01-30,Prudential Center,"Newark, New Jersey, U.S.","10,555",https://en.wikipedia.org/wiki/UFC_on_Fox:_Johnson_vs._Bader
+346,UFC Fight Night: Dillashaw vs. Cruz,2016-01-17,TD Garden,"Boston, Massachusetts, U.S.","12,022",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Dillashaw_vs._Cruz
+345,UFC 195: Lawler vs. Condit,2016-01-02,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","10,300",https://en.wikipedia.org/wiki/UFC_195
+344,UFC on Fox: dos Anjos vs. Cowboy 2,2015-12-19,Amway Center,"Orlando, Florida, U.S.","14,459",https://en.wikipedia.org/wiki/UFC_on_Fox:_dos_Anjos_vs._Cowboy_2
+343,UFC 194: Aldo vs. McGregor,2015-12-12,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","16,516",https://en.wikipedia.org/wiki/UFC_194
+342,The Ultimate Fighter: Team McGregor vs. Team Faber Finale,2015-12-11,The Chelsea at The Cosmopolitan,"Las Vegas, Nevada, U.S.","2,566",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_McGregor_vs._Team_Faber#The_Ultimate_Fighter_22_Finale
+341,UFC Fight Night: Namajunas vs. VanZant,2015-12-10,The Chelsea at The Cosmopolitan,"Las Vegas, Nevada, U.S.","1,643",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Namajunas_vs._VanZant
+340,UFC Fight Night: Henderson vs. Masvidal,2015-11-28,Olympic Gymnastics Arena,"Seoul, South Korea","12,156",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Henderson_vs._Masvidal
+339,The Ultimate Fighter Latin America 2 Finale: Magny vs. Gastelum,2015-11-21,Arena Monterrey,"Monterrey, Mexico","10,410",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Latin_America_2#The_Ultimate_Fighter_Latin_America_2_Finale:_Magny_vs._Gastelum
+338,UFC 193: Rousey vs. Holm,2015-11-15,Etihad Stadium,"Melbourne, Australia","56,214",https://en.wikipedia.org/wiki/UFC_193
+337,UFC Fight Night: Belfort vs. Henderson 3,2015-11-07,Ginásio do Ibirapuera,"São Paulo, Brazil","10,628",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Belfort_vs._Henderson_3
+336,UFC Fight Night: Holohan vs. Smolka,2015-10-24,3Arena,"Dublin, Ireland","9,500",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Holohan_vs._Smolka
+335,UFC 192: Cormier vs. Gustafsson,2015-10-03,Toyota Center,"Houston, Texas, U.S.","14,622",https://en.wikipedia.org/wiki/UFC_192
+334,UFC Fight Night: Barnett vs. Nelson,2015-09-27,Saitama Super Arena,"Saitama, Japan","10,137",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Barnett_vs._Nelson
+333,UFC 191: Johnson vs. Dodson 2,2015-09-05,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","10,873",https://en.wikipedia.org/wiki/UFC_191
+332,UFC Fight Night: Holloway vs. Oliveira,2015-08-23,SaskTel Centre,"Saskatoon, Saskatchewan, Canada","7,202",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Holloway_vs._Oliveira
+331,UFC Fight Night: Teixeira vs. Saint Preux,2015-08-08,Bridgestone Arena,"Nashville, Tennessee, U.S.","7,539",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Teixeira_vs._Saint_Preux
+330,UFC 190: Rousey vs. Correia,2015-08-01,HSBC Arena,"Rio de Janeiro, Brazil","14,723",https://en.wikipedia.org/wiki/UFC_190
+329,UFC on Fox: Dillashaw vs. Barão 2,2015-07-25,United Center,"Chicago, Illinois, U.S.","11,663",https://en.wikipedia.org/wiki/UFC_on_Fox:_Dillashaw_vs._Bar%C3%A3o_2
+328,UFC Fight Night: Bisping vs. Leites,2015-07-18,The SSE Hydro,"Glasgow, Scotland, U.K.","10,451",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bisping_vs._Leites
+327,UFC Fight Night: Mir vs. Duffee,2015-07-15,Valley View Casino Center,"San Diego, California, U.S.","5,471",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Mir_vs._Duffee
+326,The Ultimate Fighter: American Top Team vs. Blackzilians Finale,2015-07-12,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","4,844",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_American_Top_Team_vs._Blackzilians#The_Ultimate_Fighter_21_Finale
+325,UFC 189: Mendes vs. McGregor,2015-07-11,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","16,019",https://en.wikipedia.org/wiki/UFC_189
+324,UFC Fight Night: Machida vs. Romero,2015-06-27,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida, U.S.","5,604",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Machida_vs._Romero
+323,UFC Fight Night: Jędrzejczyk vs. Penne,2015-06-20,O2 World,"Berlin, Germany","8,155",https://en.wikipedia.org/wiki/UFC_Fight_Night:_J%C4%99drzejczyk_vs._Penne
+322,UFC 188: Velasquez vs. Werdum,2015-06-13,Arena Ciudad de México,"Mexico City, Mexico","21,036",https://en.wikipedia.org/wiki/UFC_188
+321,UFC Fight Night: Boetsch vs. Henderson,2015-06-06,Smoothie King Center,"New Orleans, Louisiana, U.S.","6,231",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Boetsch_vs._Henderson
+320,UFC Fight Night: Condit vs. Alves,2015-05-30,Goiânia Arena,"Goiânia, Brazil","3,500",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Condit_vs._Alves
+319,UFC 187: Johnson vs. Cormier,2015-05-23,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,615",https://en.wikipedia.org/wiki/UFC_187
+318,UFC Fight Night: Edgar vs. Faber,2015-05-16,Mall of Asia Arena,"Pasay, Philippines","13,446",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Edgar_vs._Faber
+317,UFC Fight Night: Miocic vs. Hunt,2015-05-10,Adelaide Entertainment Centre,"Adelaide, Australia","7,984",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Miocic_vs._Hunt
+316,UFC 186: Johnson vs. Horiguchi,2015-04-25,Bell Centre,"Montreal, Quebec, Canada","10,154",https://en.wikipedia.org/wiki/UFC_186
+315,UFC on Fox: Machida vs. Rockhold,2015-04-18,Prudential Center,"Newark, New Jersey, U.S.","13,306",https://en.wikipedia.org/wiki/UFC_on_Fox:_Machida_vs._Rockhold
+314,UFC Fight Night: Gonzaga vs. Cro Cop 2,2015-04-11,Tauron Arena Kraków,"Kraków, Poland","10,000",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Gonzaga_vs._Cro_Cop_2
+313,UFC Fight Night: Mendes vs. Lamas,2015-04-04,Patriot Center,"Fairfax, Virginia, U.S.","5,417",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Mendes_vs._Lamas
+312,UFC Fight Night: Maia vs. LaFlare,2015-03-21,Ginásio do Maracanãzinho,"Rio de Janeiro, Brazil","7,707",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Maia_vs._LaFlare
+311,UFC 185: Pettis vs. dos Anjos,2015-03-14,American Airlines Center,"Dallas, Texas, U.S.","17,160",https://en.wikipedia.org/wiki/UFC_185
+310,UFC 184: Rousey vs. Zingano,2015-02-28,Staples Center,"Los Angeles, California, U.S.","17,654",https://en.wikipedia.org/wiki/UFC_184
+309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,"Porto Alegre, Brazil","5,080",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bigfoot_vs._Mir
+308,UFC Fight Night: Henderson vs. Thatch,2015-02-14,1stBank Center,"Broomfield, Colorado, U.S.","5,807",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Henderson_vs._Thatch
+307,UFC 183: Silva vs. Diaz,2015-01-31,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,114",https://en.wikipedia.org/wiki/UFC_183
+306,UFC on Fox: Gustafsson vs. Johnson,2015-01-24,Tele2 Arena,"Stockholm, Sweden","30,000",https://en.wikipedia.org/wiki/UFC_on_Fox:_Gustafsson_vs._Johnson
+305,UFC Fight Night: McGregor vs. Siver,2015-01-18,TD Garden,"Boston, Massachusetts, U.S.","13,828",https://en.wikipedia.org/wiki/UFC_Fight_Night:_McGregor_vs._Siver
+304,UFC 182: Jones vs. Cormier,2015-01-03,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","11,575",https://en.wikipedia.org/wiki/UFC_182
+303,UFC Fight Night: Machida vs. Dollaway,2014-12-20,Ginásio José Corrêa,"Barueri, Brazil",N/A,https://en.wikipedia.org/wiki/UFC_Fight_Night:_Machida_vs._Dollaway
+302,UFC on Fox: dos Santos vs. Miocic,2014-12-13,Talking Stick Resort Arena,"Phoenix, Arizona, U.S.","15,300",https://en.wikipedia.org/wiki/UFC_on_Fox:_dos_Santos_vs._Miocic
+301,The Ultimate Fighter: A Champion Will Be Crowned Finale,2014-12-12,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,800",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_A_Champion_Will_Be_Crowned#The_Ultimate_Fighter_20_Finale
+300,UFC 181: Hendricks vs. Lawler II,2014-12-06,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","9,617",https://en.wikipedia.org/wiki/UFC_181
+299,UFC Fight Night: Edgar vs. Swanson,2014-11-22,Frank Erwin Center,"Austin, Texas, U.S.","10,131",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Edgar_vs._Swanson
+298,UFC 180: Werdum vs. Hunt,2014-11-15,Arena Ciudad de México,"Mexico City, Mexico","21,000",https://en.wikipedia.org/wiki/UFC_180
+297,UFC Fight Night: Shogun vs. Saint Preux,2014-11-08,Ginásio Municipal Tancredo Neves,"Uberlândia, Brazil","5,671",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Shogun_vs._Saint_Preux
+296,UFC Fight Night: Rockhold vs. Bisping,2014-11-08,Allphones Arena,"Sydney, Australia","9,904",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rockhold_vs._Bisping
+295,UFC 179: Aldo vs. Mendes 2,2014-10-25,Ginásio do Maracanãzinho,"Rio de Janeiro, Brazil","11,415",https://en.wikipedia.org/wiki/UFC_179
+294,UFC Fight Night: MacDonald vs. Saffiedine,2014-10-04,Scotiabank Centre,"Halifax, Nova Scotia, Canada","10,782",https://en.wikipedia.org/wiki/UFC_Fight_Night:_MacDonald_vs._Saffiedine
+293,UFC Fight Night: Nelson vs. Story,2014-10-04,Ericsson Globe Arena,"Stockholm, Sweden","10,026",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Nelson_vs._Story
+292,UFC 178: Johnson vs. Cariaso,2014-09-27,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","10,544",https://en.wikipedia.org/wiki/UFC_178
+291,UFC Fight Night: Hunt vs. Nelson,2014-09-20,Saitama Super Arena,"Saitama, Japan","12,395",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hunt_vs._Nelson
+290,UFC Fight Night: Bigfoot vs. Arlovski,2014-09-13,Ginásio Nilson Nelson,"Brasília, Brazil","8,822",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bigfoot_vs._Arlovski
+289,UFC Fight Night: Jacaré vs. Mousasi,2014-09-05,Foxwoods Resort Casino,"Mashantucket, Connecticut, U.S.","4,086",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Jacar%C3%A9_vs._Mousasi
+288,UFC 177: Dillashaw vs. Soto,2014-08-30,Sleep Train Arena,"Sacramento, California, U.S.","11,100",https://en.wikipedia.org/wiki/UFC_177
+287,UFC Fight Night: Henderson vs. dos Anjos,2014-08-23,BOK Center,"Tulsa, Oklahoma, U.S.","7,119",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Henderson_vs._dos_Anjos
+286,UFC Fight Night: Bisping vs. Le,2014-08-23,CotaiArena,"Macau, SAR, China","7,022",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bisping_vs._Le
+285,UFC Fight Night: Bader vs. Saint Preux,2014-08-16,Cross Insurance Center,"Bangor, Maine, U.S.","5,329",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Bader_vs._Saint_Preux
+284,UFC on Fox: Lawler vs. Brown,2014-07-26,SAP Center,"San Jose, California, U.S.","11,482",https://en.wikipedia.org/wiki/UFC_on_Fox:_Lawler_vs._Brown
+283,UFC Fight Night: McGregor vs. Brandao,2014-07-19,The O2,"Dublin, Ireland","9,500",https://en.wikipedia.org/wiki/UFC_Fight_Night:_McGregor_vs._Brandao
+282,UFC Fight Night: Cowboy vs. Miller,2014-07-16,Revel Casino Hotel,"Atlantic City, New Jersey, U.S.","4,115",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Cowboy_vs._Miller
+281,The Ultimate Fighter: Team Edgar vs. Team Penn Finale,2014-07-06,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","6,500",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Edgar_vs._Team_Penn#The_Ultimate_Fighter_19_Finale
+280,UFC 175: Weidman vs. Machida,2014-07-05,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,088",https://en.wikipedia.org/wiki/UFC_175
+279,UFC Fight Night: Swanson vs. Stephens,2014-06-28,AT&T Center,"San Antonio, Texas, U.S.","9,227",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Swanson_vs._Stephens
+278,UFC Fight Night: Te Huna vs. Marquardt,2014-06-28,Vector Arena,"Auckland, New Zealand","8,089",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Te_Huna_vs._Marquardt
+277,UFC 174: Johnson vs. Bagautinov,2014-06-14,Rogers Arena,"Vancouver, British Columbia, Canada","13,506",https://en.wikipedia.org/wiki/UFC_174
+276,UFC Fight Night: Henderson vs. Khabilov,2014-06-07,Tingley Coliseum,"Albuquerque, New Mexico, U.S.","8,775",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Henderson_vs._Khabilov
+275,The Ultimate Fighter Brazil 3 Finale: Miocic vs. Maldonado,2014-05-31,Ginásio do Ibirapuera,"São Paulo, Brazil","8,986",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Brazil_3#The_Ultimate_Fighter_Brazil_3_Finale:_Miocic_vs._Maldonado
+274,UFC Fight Night: Muñoz vs. Mousasi,2014-05-31,O2 World,"Berlin, Germany","8,000",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Mu%C3%B1oz_vs._Mousasi
+273,UFC 173: Barão vs. Dillashaw,2014-05-24,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","11,036",https://en.wikipedia.org/wiki/UFC_173
+272,UFC Fight Night: Brown vs. Silva,2014-05-10,U.S. Bank Arena,"Cincinnati, Ohio, U.S.","6,143",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Brown_vs._Silva
+271,UFC 172: Jones vs. Teixeira,2014-04-26,Baltimore Arena,"Baltimore, Maryland, U.S.","13,485",https://en.wikipedia.org/wiki/UFC_172
+270,UFC on Fox: Werdum vs. Browne,2014-04-19,Amway Center,"Orlando, Florida, U.S.","17,000",https://en.wikipedia.org/wiki/UFC_on_Fox:_Werdum_vs._Browne
+269,The Ultimate Fighter Nations Finale: Bisping vs. Kennedy,2014-04-16,Colisée Pepsi,"Quebec City, Quebec, Canada","5,029",https://en.wikipedia.org/wiki/The_Ultimate_Fighter_Nations:_Canada_vs._Australia#The_Ultimate_Fighter_Nations_Finale:_Bisping_vs._Kennedy
+268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,"Abu Dhabi, United Arab Emirates","7,963",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Nogueira_vs._Nelson
+267,UFC Fight Night: Shogun vs. Henderson 2,2014-03-23,Ginásio Nélio Dias,"Natal, Brazil","6,828",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Shogun_vs._Henderson_2
+266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,"Dallas, Texas, U.S.","19,324",https://en.wikipedia.org/wiki/UFC_171
+265,UFC Fight Night: Gustafsson vs. Manuwa,2014-03-08,The O2 Arena,"London, England, U.K.","14,604",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Gustafsson_vs._Manuwa
+264,The Ultimate Fighter China Finale: Kim vs. Hathaway,2014-03-01,CotaiArena,"Macau, SAR, China","6,000",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_China#The_Ultimate_Fighter_China_Finale:_Kim_vs._Hathaway
+263,UFC 170: Rousey vs. McMann,2014-02-22,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,217",https://en.wikipedia.org/wiki/UFC_170
+262,UFC Fight Night: Machida vs. Mousasi,2014-02-15,Arena Jaraguá,"Jaraguá do Sul, Brazil","7,511",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Machida_vs._Mousasi
+261,UFC 169: Barão vs. Faber II,2014-02-01,Prudential Center,"Newark, New Jersey, U.S.","14,308",https://en.wikipedia.org/wiki/UFC_169
+260,UFC on Fox: Henderson vs. Thomson,2014-01-25,United Center,"Chicago, Illinois, U.S.","10,895",https://en.wikipedia.org/wiki/UFC_on_Fox:_Henderson_vs._Thomson
+259,UFC Fight Night: Rockhold vs. Philippou,2014-01-15,Arena at Gwinnett Center,"Duluth, Georgia, U.S.","5,822",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Rockhold_vs._Philippou
+258,UFC Fight Night: Saffiedine vs. Lim,2014-01-04,Marina Bay Sands,"Marina Bay, Singapore","5,216",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Saffiedine_vs._Lim
+257,UFC 168: Weidman vs. Silva 2,2013-12-28,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","15,650",https://en.wikipedia.org/wiki/UFC_168
+256,UFC on Fox: Johnson vs. Benavidez 2,2013-12-14,Sleep Train Arena,"Sacramento, California, U.S.","11,573",https://en.wikipedia.org/wiki/UFC_on_Fox:_Johnson_vs._Benavidez_2
+255,UFC Fight Night: Hunt vs. Bigfoot,2013-12-07,Brisbane Entertainment Centre,"Brisbane, Australia","11,393",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hunt_vs._Bigfoot
+254,The Ultimate Fighter: Team Rousey vs. Team Tate Finale,2013-11-30,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","4,853",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Rousey_vs._Team_Tate#The_Ultimate_Fighter_18_Finale
+253,UFC 167: St-Pierre vs. Hendricks,2013-11-16,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,856",https://en.wikipedia.org/wiki/UFC_167
+252,UFC Fight Night: Belfort vs. Henderson,2013-11-09,Goiânia Arena,"Goiânia, Brazil","10,565",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Belfort_vs._Henderson
+251,UFC: Fight for the Troops 3,2013-11-06,Fort Campbell,"Fort Campbell, Kentucky, U.S.",N/A,https://en.wikipedia.org/wiki/UFC:_Fight_for_the_Troops_3
+250,UFC Fight Night: Machida vs. Muñoz,2013-10-26,Phones 4u Arena,"Manchester, England, U.K.","10,355",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Machida_vs._Mu%C3%B1oz
+249,UFC 166: Velasquez vs. dos Santos III,2013-10-19,Toyota Center,"Houston, Texas, U.S.","17,238",https://en.wikipedia.org/wiki/UFC_166
+248,UFC Fight Night: Maia vs. Shields,2013-10-09,Ginásio José Corrêa,"Barueri, Brazil","6,621",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Maia_vs._Shields
+247,UFC 165: Jones vs. Gustafsson,2013-09-21,Air Canada Centre,"Toronto, Ontario, Canada","15,504",https://en.wikipedia.org/wiki/UFC_165
+246,UFC Fight Night: Teixeira vs. Bader,2013-09-04,Mineirinho Arena,"Belo Horizonte, Brazil","5,126",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Teixeira_vs._Bader
+245,UFC 164: Henderson vs. Pettis,2013-08-31,BMO Harris Bradley Center,"Milwaukee, Wisconsin, U.S.","9,178",https://en.wikipedia.org/wiki/UFC_164
+244,UFC Fight Night: Condit vs. Kampmann 2,2013-08-28,Bankers Life Fieldhouse,"Indianapolis, Indiana, U.S.","6,417",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Condit_vs._Kampmann_2
+243,UFC Fight Night: Shogun vs. Sonnen,2013-08-17,TD Garden,"Boston, Massachusetts, U.S.","14,181",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Shogun_vs._Sonnen
+242,UFC 163: Aldo vs. Korean Zombie,2013-08-03,HSBC Arena,"Rio de Janeiro, Brazil","13,873",https://en.wikipedia.org/wiki/UFC_163
+241,UFC on Fox: Johnson vs. Moraga,2013-07-27,KeyArena,"Seattle, Washington, U.S.","8,967",https://en.wikipedia.org/wiki/UFC_on_Fox:_Johnson_vs._Moraga
+240,UFC 162: Silva vs. Weidman,2013-07-06,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,964",https://en.wikipedia.org/wiki/UFC_162
+239,UFC 161: Evans vs. Henderson,2013-06-15,MTS Centre,"Winnipeg, Manitoba, Canada","14,754",https://en.wikipedia.org/wiki/UFC_161
+238,UFC on Fuel TV: Nogueira vs. Werdum,2013-06-08,Ginásio Paulo Sarasate,"Fortaleza, Brazil","6,286",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Brazil_2#The_Ultimate_Fighter:_Brazil_2_Finale
+237,UFC 160: Velasquez vs. Bigfoot 2,2013-05-25,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,380",https://en.wikipedia.org/wiki/UFC_160
+236,UFC on FX: Belfort vs. Rockhold,2013-05-18,Arena Jaraguá,"Jaraguá do Sul, Brazil","7,642",https://en.wikipedia.org/wiki/UFC_on_FX:_Belfort_vs._Rockhold
+235,UFC 159: Jones vs. Sonnen,2013-04-27,Prudential Center,"Newark, New Jersey, U.S.","15,227",https://en.wikipedia.org/wiki/UFC_159
+234,UFC on Fox: Henderson vs. Melendez,2013-04-20,HP Pavilion,"San Jose, California, U.S.","13,506",https://en.wikipedia.org/wiki/UFC_on_Fox:_Henderson_vs._Melendez
+233,The Ultimate Fighter: Team Jones vs. Team Sonnen Finale,2013-04-13,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","5,918",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Jones_vs._Team_Sonnen#The_Ultimate_Fighter_17_Finale
+232,UFC on Fuel TV: Mousasi vs. Latifi,2013-04-06,Ericsson Globe Arena,"Stockholm, Sweden","14,506",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Mousasi_vs._Latifi
+231,UFC 158: St-Pierre vs. Diaz,2013-03-16,Bell Centre,"Montreal, Quebec, Canada","20,145",https://en.wikipedia.org/wiki/UFC_158
+230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,"Saitama, Japan","14,682",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Silva_vs._Stann
+229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,"Anaheim, California, U.S.","13,257",https://en.wikipedia.org/wiki/UFC_157
+228,UFC on Fuel TV: Barão vs. McDonald,2013-02-16,Wembley Arena,"London, England, U.K.","10,349",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Bar%C3%A3o_vs._McDonald
+227,UFC 156: Aldo vs. Edgar,2013-02-02,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,275",https://en.wikipedia.org/wiki/UFC_156
+226,UFC on Fox: Johnson vs. Dodson,2013-01-26,United Center,"Chicago, Illinois, U.S.","16,091",https://en.wikipedia.org/wiki/UFC_on_Fox:_Johnson_vs._Dodson
+225,UFC on FX: Belfort vs. Bisping,2013-01-19,Ginásio do Ibirapuera,"São Paulo, Brazil","9,116",https://en.wikipedia.org/wiki/UFC_on_FX:_Belfort_vs._Bisping
+224,UFC 155: dos Santos vs. Velasquez 2,2012-12-29,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,561",https://en.wikipedia.org/wiki/UFC_155
+223,The Ultimate Fighter: Team Carwin vs. Team Nelson Finale,2012-12-15,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.","2,500",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Carwin_vs._Team_Nelson#The_Ultimate_Fighter_16_Finale
+222,UFC on FX: Sotiropoulos vs. Pearson,2012-12-15,Gold Coast Convention and Exhibition Centre,"Gold Coast, Australia","5,133",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_The_Smashes#The_Ultimate_Fighter:_The_Smashes_Finale
+221,UFC on Fox: Henderson vs. Diaz,2012-12-08,KeyArena,"Seattle, Washington, U.S.","14,387",https://en.wikipedia.org/wiki/UFC_on_Fox:_Henderson_vs._Diaz
+220,UFC 154: St-Pierre vs. Condit,2012-11-17,Bell Centre,"Montreal, Quebec, Canada","17,249",https://en.wikipedia.org/wiki/UFC_154
+219,UFC on Fuel TV: Franklin vs. Le,2012-11-10,CotaiArena,"Macau, SAR, China","8,415",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Franklin_vs._Le
+218,UFC 153: Silva vs. Bonnar,2012-10-13,HSBC Arena,"Rio de Janeiro, Brazil","16,844",https://en.wikipedia.org/wiki/UFC_153
+217,UFC on FX: Browne vs. Bigfoot,2012-10-05,Target Center,"Minneapolis, Minnesota, U.S.","7,049",https://en.wikipedia.org/wiki/UFC_on_FX:_Browne_vs._Bigfoot
+216,UFC on Fuel TV: Struve vs. Miocic,2012-09-29,Capital FM Arena,"Nottingham, England, U.K.","7,241",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Struve_vs._Miocic
+215,UFC 152: Jones vs. Belfort,2012-09-22,Air Canada Centre,"Toronto, Ontario, Canada","16,800",https://en.wikipedia.org/wiki/UFC_152
+214,UFC 150: Henderson vs. Edgar II,2012-08-11,Pepsi Center,"Denver, Colorado, U.S.","13,027",https://en.wikipedia.org/wiki/UFC_150
+213,UFC on Fox: Shogun vs. Vera,2012-08-04,Staples Center,"Los Angeles, California, U.S.","16,080",https://en.wikipedia.org/wiki/UFC_on_Fox:_Shogun_vs._Vera
+212,UFC 149: Faber vs. Barão,2012-07-21,Scotiabank Saddledome,"Calgary, Alberta, Canada","16,089",https://en.wikipedia.org/wiki/2012_in_UFC#UFC_149:_Faber_vs._Barão
+211,UFC on Fuel TV: Muñoz vs. Weidman,2012-07-11,HP Pavilion,"San Jose, California, U.S.","4,250",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Mu%C3%B1oz_vs._Weidman
+210,UFC 148: Silva vs. Sonnen II,2012-07-07,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","15,104",https://en.wikipedia.org/wiki/UFC_148
+209,UFC 147: Silva vs. Franklin II,2012-06-23,Mineirinho Arena,"Belo Horizonte, Brazil","16,643",https://en.wikipedia.org/wiki/UFC_147
+208,UFC on FX: Maynard vs. Guida,2012-06-22,Revel Casino Hotel,"Atlantic City, New Jersey, U.S.","4,652",https://en.wikipedia.org/wiki/UFC_on_FX:_Maynard_vs._Guida
+207,UFC on FX: Johnson vs. McCall,2012-06-08,BankAtlantic Center,"Sunrise, Florida, U.S.","6,635",https://en.wikipedia.org/wiki/UFC_on_FX:_Johnson_vs._McCall
+206,The Ultimate Fighter: Live Finale,2012-06-01,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,628",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Live#The_Ultimate_Fighter_15_Finale
+205,UFC 146: dos Santos vs. Mir,2012-05-26,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,674",https://en.wikipedia.org/wiki/UFC_146
+204,UFC on Fuel TV: The Korean Zombie vs. Poirier,2012-05-15,Patriot Center,"Fairfax, Virginia, U.S.","6,668",https://en.wikipedia.org/wiki/2012_in_UFC#UFC_on_Fuel_TV:_The_Korean_Zombie_vs._Poirier
+203,UFC on Fox: Diaz vs. Miller,2012-05-05,IZOD Center,"East Rutherford, New Jersey, U.S.","10,788",https://en.wikipedia.org/wiki/UFC_on_Fox:_Diaz_vs._Miller
+202,UFC 145: Jones vs. Evans,2012-04-21,Philips Arena,"Atlanta, Georgia, U.S.","15,545",https://en.wikipedia.org/wiki/UFC_145
+201,UFC on Fuel TV: Gustafsson vs. Silva,2012-04-14,Ericsson Globe Arena,"Stockholm, Sweden","15,428",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Gustafsson_vs._Silva
+200,UFC on FX: Alves vs. Kampmann,2012-03-03,Allphones Arena,"Sydney, Australia","14,537",https://en.wikipedia.org/wiki/UFC_on_FX:_Alves_vs._Kampmann
+199,UFC 144: Edgar vs. Henderson,2012-02-26,Saitama Super Arena,"Saitama, Japan","21,000",https://en.wikipedia.org/wiki/UFC_144
+198,UFC on Fuel TV: Sanchez vs. Ellenberger,2012-02-15,Omaha Civic Auditorium,"Omaha, Nebraska, U.S.","6,283",https://en.wikipedia.org/wiki/UFC_on_Fuel_TV:_Sanchez_vs._Ellenberger
+197,UFC 143: Diaz vs. Condit,2012-02-04,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","9,015",https://en.wikipedia.org/wiki/UFC_143
+196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,"Chicago, Illinois, U.S.","16,963",https://en.wikipedia.org/wiki/UFC_on_Fox:_Evans_vs._Davis
+195,UFC on FX: Guillard vs. Miller,2012-01-20,Bridgestone Arena,"Nashville, Tennessee, U.S.","7,728",https://en.wikipedia.org/wiki/UFC_on_FX:_Guillard_vs._Miller
+194,UFC 142: Aldo vs. Mendes,2012-01-14,HSBC Arena,"Rio de Janeiro, Brazil","10,605",https://en.wikipedia.org/wiki/UFC_142
+193,UFC 141: Lesnar vs. Overeem,2011-12-30,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,793",https://en.wikipedia.org/wiki/UFC_141
+192,UFC 140: Jones vs. Machida,2011-12-10,Air Canada Centre,"Toronto, Ontario, Canada","18,303",https://en.wikipedia.org/wiki/UFC_140
+191,The Ultimate Fighter: Team Bisping vs. Team Miller Finale,2011-12-03,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,909",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Bisping_vs._Team_Miller_Finale
+190,UFC 139: Shogun vs. Henderson,2011-11-19,HP Pavilion,"San Jose, California, U.S.","13,832",https://en.wikipedia.org/wiki/UFC_139
+189,UFC on Fox: Velasquez vs. dos Santos,2011-11-12,Honda Center,"Anaheim, California, U.S.","11,607",https://en.wikipedia.org/wiki/UFC_on_Fox:_Velasquez_vs._dos_Santos
+188,UFC 138: Leben vs. Muñoz,2011-11-05,LG Arena,"Birmingham, England, U.K.","10,823",https://en.wikipedia.org/wiki/UFC_138
+187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,313",https://en.wikipedia.org/wiki/UFC_137
+186,UFC 136: Edgar vs. Maynard III,2011-10-08,Toyota Center,"Houston, Texas, U.S.","16,164",https://en.wikipedia.org/wiki/UFC_136
+185,UFC Live: Cruz vs. Johnson,2011-10-01,Verizon Center,"Washington, D.C., U.S.","9,380",https://en.wikipedia.org/wiki/UFC_Live:_Cruz_vs._Johnson
+184,UFC 135: Jones vs. Rampage,2011-09-24,Pepsi Center,"Denver, Colorado, U.S.","16,344",https://en.wikipedia.org/wiki/UFC_135
+183,UFC Fight Night: Shields vs. Ellenberger,2011-09-17,Ernest N. Morial Convention Center,"New Orleans, Louisiana, U.S.","7,112",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Shields_vs._Ellenberger
+182,UFC 134: Silva vs. Okami,2011-08-27,HSBC Arena,"Rio de Janeiro, Brazil","14,000",https://en.wikipedia.org/wiki/UFC_134
+181,UFC Live: Hardy vs. Lytle,2011-08-14,Bradley Center,"Milwaukee, Wisconsin, U.S.","6,751",https://en.wikipedia.org/wiki/UFC_Live:_Hardy_vs._Lytle
+180,UFC 133: Evans vs. Ortiz,2011-08-06,Wells Fargo Center,"Philadelphia, Pennsylvania, U.S.","11,583",https://en.wikipedia.org/wiki/UFC_133
+179,UFC 132: Cruz vs. Faber,2011-07-02,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,109",https://en.wikipedia.org/wiki/UFC_132
+178,UFC Live: Kongo vs. Barry,2011-06-26,Consol Energy Center,"Pittsburgh, Pennsylvania, U.S.","7,792",https://en.wikipedia.org/wiki/UFC_Live:_Kongo_vs._Barry
+177,UFC 131: dos Santos vs. Carwin,2011-06-11,Rogers Arena,"Vancouver, British Columbia, Canada","14,685",https://en.wikipedia.org/wiki/UFC_131
+176,The Ultimate Fighter: Team Lesnar vs. Team dos Santos Finale,2011-06-04,Palms Casino Resort,"Las Vegas, Nevada, U.S.","2,053",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Lesnar_vs._Team_dos_Santos_Finale
+175,UFC 130: Rampage vs. Hamill,2011-05-28,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,753",https://en.wikipedia.org/wiki/UFC_130
+174,UFC 129: St-Pierre vs. Shields,2011-04-30,Rogers Centre,"Toronto, Ontario, Canada","55,724",https://en.wikipedia.org/wiki/UFC_129
+173,UFC Fight Night: Nogueira vs. Davis,2011-03-26,KeyArena,"Seattle, Washington, U.S.","13,741",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Nogueira_vs._Davis
+172,UFC 128: Shogun vs. Jones,2011-03-19,Prudential Center,"Newark, New Jersey, U.S.","12,619",https://en.wikipedia.org/wiki/UFC_128
+171,UFC Live: Sanchez vs. Kampmann,2011-03-03,KFC Yum! Center,"Louisville, Kentucky, U.S.","8,319",https://en.wikipedia.org/wiki/UFC_Live:_Sanchez_vs._Kampmann
+170,UFC 127: Penn vs. Fitch,2011-02-27,Acer Arena,"Sydney, Australia","18,186",https://en.wikipedia.org/wiki/UFC_127
+169,UFC 126: Silva vs. Belfort,2011-02-05,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,893",https://en.wikipedia.org/wiki/UFC_126
+168,UFC: Fight for the Troops 2,2011-01-22,Fort Hood,"Fort Hood, Texas, U.S.","3,200",https://en.wikipedia.org/wiki/UFC:_Fight_for_the_Troops_2
+167,UFC 125: Resolution,2011-01-01,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,874",https://en.wikipedia.org/wiki/UFC_125
+166,UFC 124: St-Pierre vs. Koscheck 2,2010-12-11,Bell Centre,"Montreal, Quebec, Canada","23,152",https://en.wikipedia.org/wiki/UFC_124
+165,The Ultimate Fighter: Team GSP vs. Team Koscheck Finale,2010-12-04,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,903",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_GSP_vs._Team_Koscheck_Finale
+164,UFC 123: Rampage vs. Machida,2010-11-20,The Palace of Auburn Hills,"Auburn Hills, Michigan, U.S.","16,404",https://en.wikipedia.org/wiki/UFC_123
+163,UFC 122: Marquardt vs. Okami,2010-11-13,König Pilsener Arena,"Oberhausen, Germany","8,421",https://en.wikipedia.org/wiki/UFC_122
+162,UFC 121: Lesnar vs. Velasquez,2010-10-23,Honda Center,"Anaheim, California, U.S.","14,856",https://en.wikipedia.org/wiki/UFC_121
+161,UFC 120: Bisping vs. Akiyama,2010-10-16,The O2 arena,"London, England, U.K.","17,133",https://en.wikipedia.org/wiki/UFC_120
+160,UFC 119: Mir vs. Cro Cop,2010-09-25,Conseco Fieldhouse,"Indianapolis, Indiana, U.S.","15,811",https://en.wikipedia.org/wiki/UFC_119
+159,UFC Fight Night: Marquardt vs. Palhares,2010-09-15,Frank Erwin Center,"Austin, Texas, U.S.","7,724",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Marquardt_vs._Palhares
+158,UFC 118: Edgar vs. Penn 2,2010-08-28,TD Garden,"Boston, Massachusetts, U.S.","14,168",https://en.wikipedia.org/wiki/UFC_118
+157,UFC 117: Silva vs. Sonnen,2010-08-07,Oracle Arena,"Oakland, California, U.S.","12,971",https://en.wikipedia.org/wiki/UFC_117
+156,UFC Live: Jones vs. Matyushenko,2010-08-01,San Diego Sports Arena,"San Diego, California, U.S.","8,132",https://en.wikipedia.org/wiki/UFC_Live:_Jones_vs._Matyushenko
+155,UFC 116: Lesnar vs. Carwin,2010-07-03,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,740",https://en.wikipedia.org/wiki/UFC_116
+154,The Ultimate Fighter: Team Liddell vs. Team Ortiz Finale,2010-06-19,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,708",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Liddell_vs._Team_Ortiz_Finale
+153,UFC 115: Liddell vs. Franklin,2010-06-12,General Motors Place,"Vancouver, British Columbia, Canada","17,669",https://en.wikipedia.org/wiki/UFC_115
+152,UFC 114: Rampage vs. Evans,2010-05-29,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,996",https://en.wikipedia.org/wiki/UFC_114
+151,UFC 113: Machida vs. Shogun 2,2010-05-08,Bell Centre,"Montreal, Quebec, Canada","17,647",https://en.wikipedia.org/wiki/UFC_113
+150,UFC 112: Invincible,2010-04-10,Yas Island,"Abu Dhabi, United Arab Emirates","11,008",https://en.wikipedia.org/wiki/UFC_112
+149,UFC Fight Night: Florian vs. Gomi,2010-03-31,Bojangles Coliseum,"Charlotte, North Carolina, U.S.","7,700",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Florian_vs._Gomi
+148,UFC 111: St-Pierre vs. Hardy,2010-03-27,Prudential Center,"Newark, New Jersey, U.S.","17,000",https://en.wikipedia.org/wiki/UFC_111
+147,UFC Live: Vera vs. Jones,2010-03-21,1stBank Center,"Broomfield, Colorado, U.S.","6,443",https://en.wikipedia.org/wiki/UFC_Live:_Vera_vs._Jones
+146,UFC 110: Nogueira vs. Velasquez,2010-02-21,Acer Arena,"Sydney, Australia","17,831",https://en.wikipedia.org/wiki/UFC_110
+145,UFC 109: Relentless,2010-02-06,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,753",https://en.wikipedia.org/wiki/UFC_109
+144,UFC Fight Night: Maynard vs. Diaz,2010-01-11,Patriot Center,"Fairfax, Virginia, U.S.","8,078",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Maynard_vs._Diaz
+143,UFC 108: Evans vs. Silva,2010-01-02,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,529",https://en.wikipedia.org/wiki/UFC_108
+142,UFC 107: Penn vs. Sanchez,2009-12-12,FedExForum,"Memphis, Tennessee, U.S.","13,896",https://en.wikipedia.org/wiki/UFC_107
+141,The Ultimate Fighter: Heavyweights Finale,2009-12-05,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,791",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Heavyweights_Finale
+140,UFC 106: Ortiz vs. Griffin 2,2009-11-21,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,529",https://en.wikipedia.org/wiki/UFC_106
+139,UFC 105: Couture vs. Vera,2009-11-14,Manchester Evening News Arena,"Manchester, England, U.K.","16,693",https://en.wikipedia.org/wiki/UFC_105
+138,UFC 104: Machida vs. Shogun,2009-10-24,Staples Center,"Los Angeles, California, U.S.","14,892",https://en.wikipedia.org/wiki/UFC_104
+137,UFC 103: Franklin vs. Belfort,2009-09-19,American Airlines Center,"Dallas, Texas, U.S.","17,428",https://en.wikipedia.org/wiki/UFC_103
+136,UFC Fight Night: Diaz vs. Guillard,2009-09-16,Cox Convention Center,"Oklahoma City, Oklahoma, U.S.","9,490",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Diaz_vs._Guillard
+135,UFC 102: Couture vs. Nogueira,2009-08-29,Rose Garden,"Portland, Oregon, U.S.","16,088",https://en.wikipedia.org/wiki/UFC_102
+134,UFC 101: Declaration,2009-08-08,Wachovia Center,"Philadelphia, Pennsylvania, U.S.","17,411",https://en.wikipedia.org/wiki/UFC_101
+133,UFC 100,2009-07-11,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,871",https://en.wikipedia.org/wiki/UFC_100
+132,The Ultimate Fighter: United States vs. United Kingdom Finale,2009-06-20,Palms Casino Resort,"Las Vegas, Nevada, U.S.","2,217",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_United_States_vs._United_Kingdom_Finale
+131,UFC 99: The Comeback,2009-06-13,Lanxess Arena,"Cologne, Germany","12,854",https://en.wikipedia.org/wiki/UFC_99
+130,UFC 98: Evans vs. Machida,2009-05-23,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,606",https://en.wikipedia.org/wiki/UFC_98
+129,UFC 97: Redemption,2009-04-18,Bell Centre,"Montreal, Quebec, Canada","21,451",https://en.wikipedia.org/wiki/UFC_97
+128,UFC Fight Night: Condit vs. Kampmann,2009-04-01,Sommet Center,"Nashville, Tennessee, U.S.","10,267",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Condit_vs._Kampmann
+127,UFC 96: Jackson vs. Jardine,2009-03-07,Nationwide Arena,"Columbus, Ohio, U.S.","17,033",https://en.wikipedia.org/wiki/UFC_96
+126,UFC 95: Sanchez vs. Stevenson,2009-02-21,The O2 arena,"London, England, U.K.","13,268",https://en.wikipedia.org/wiki/UFC_95
+125,UFC Fight Night: Lauzon vs. Stephens,2009-02-07,USF Sun Dome,"Tampa, Florida, U.S.","7,596",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Lauzon_vs._Stephens
+124,UFC 94: St-Pierre vs. Penn 2,2009-01-31,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,885",https://en.wikipedia.org/wiki/UFC_94
+123,UFC 93: Franklin vs. Henderson,2009-01-17,The O2,"Dublin, Ireland","9,369",https://en.wikipedia.org/wiki/UFC_93
+122,UFC 92: The Ultimate 2008,2008-12-27,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,166",https://en.wikipedia.org/wiki/UFC_92
+121,The Ultimate Fighter: Team Nogueira vs. Team Mir Finale,2008-12-13,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,853",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Nogueira_vs._Team_Mir_Finale
+120,UFC: Fight for the Troops,2008-12-10,Crown Coliseum,"Fayetteville, North Carolina, U.S.","8,500",https://en.wikipedia.org/wiki/UFC:_Fight_for_the_Troops
+119,UFC 91: Couture vs. Lesnar,2008-11-15,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,272",https://en.wikipedia.org/wiki/UFC_91
+118,UFC 90: Silva vs. Côté,2008-10-25,Allstate Arena,"Rosemont, Illinois, U.S.","15,359",https://en.wikipedia.org/wiki/UFC_90
+117,UFC 89: Bisping vs. Leben,2008-10-18,National Indoor Arena,"Birmingham, England, U.K.","9,515",https://en.wikipedia.org/wiki/UFC_89
+116,UFC Fight Night: Diaz vs. Neer,2008-09-17,Omaha Civic Auditorium,"Omaha, Nebraska, U.S.","9,103",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Diaz_vs._Neer
+115,UFC 88: Breakthrough,2008-09-06,Philips Arena,"Atlanta, Georgia, U.S.","14,736",https://en.wikipedia.org/wiki/UFC_88
+114,UFC 87: Seek and Destroy,2008-08-09,Target Center,"Minneapolis, Minnesota, U.S.","15,087",https://en.wikipedia.org/wiki/UFC_87
+113,UFC Fight Night: Silva vs. Irvin,2008-07-19,Palms Casino Resort,"Las Vegas, Nevada, U.S.","2,071",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Silva_vs._Irvin
+112,UFC 86: Jackson vs. Griffin,2008-07-05,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,990",https://en.wikipedia.org/wiki/UFC_86
+111,The Ultimate Fighter: Team Rampage vs. Team Forrest Finale,2008-06-21,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,853",https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Rampage_vs._Team_Forrest_Finale
+110,UFC 85: Bedlam,2008-06-07,The O2 arena,"London, England, U.K.","15,327",https://en.wikipedia.org/wiki/UFC_85
+109,UFC 84: Ill Will,2008-05-24,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,773",https://en.wikipedia.org/wiki/UFC_84
+108,UFC 83: Serra vs. St-Pierre 2,2008-04-19,Bell Centre,"Montreal, Quebec, Canada","21,390",https://en.wikipedia.org/wiki/UFC_83
+107,UFC Fight Night: Florian vs. Lauzon,2008-04-02,Broomfield Event Center,"Broomfield, Colorado, U.S.","6,742",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Florian_vs._Lauzon
+106,UFC 82: Pride of a Champion,2008-03-01,Nationwide Arena,"Columbus, Ohio, U.S.","16,431",https://en.wikipedia.org/wiki/UFC_82
+105,UFC 81: Breaking Point,2008-02-02,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,583",https://en.wikipedia.org/wiki/UFC_81
+104,UFC Fight Night: Swick vs. Burkman,2008-01-23,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,900",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Swick_vs._Burkman
+103,UFC 80: Rapid Fire,2008-01-19,Metro Radio Arena,"Newcastle upon Tyne, England, U.K.","8,412",https://en.wikipedia.org/wiki/UFC_80
+102,UFC 79: Nemesis,2007-12-29,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","11,075",https://en.wikipedia.org/wiki/UFC_79
+101,The Ultimate Fighter: Team Hughes vs. Team Serra Finale,2007-12-08,Palms Casino Resort,"Las Vegas, Nevada, U.S.",N/A,https://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Hughes_vs._Team_Serra_Finale
+100,UFC 78: Validation,2007-11-17,Prudential Center,"Newark, New Jersey, U.S.","14,071",https://en.wikipedia.org/wiki/UFC_78
+099,UFC 77: Hostile Territory,2007-10-20,U.S. Bank Arena,"Cincinnati, Ohio, U.S.","16,054",https://en.wikipedia.org/wiki/UFC_77
+098,UFC 76: Knockout,2007-09-22,Honda Center,"Anaheim, California, U.S.","13,770",https://en.wikipedia.org/wiki/UFC_76
+097,UFC Fight Night: Thomas vs. Florian,2007-09-19,Palms Casino Resort,"Las Vegas, Nevada, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_Fight_Night:_Thomas_vs._Florian
+096,UFC 75: Champion vs. Champion,2007-09-08,The O2 arena,"London, England, U.K.","16,235",https://en.wikipedia.org/wiki/UFC_75
+095,UFC 74: Respect,2007-08-25,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","11,065",https://en.wikipedia.org/wiki/UFC_74
+094,UFC 73: Stacked,2007-07-07,ARCO Arena,"Sacramento, California, U.S.","13,183",https://en.wikipedia.org/wiki/UFC_73
+093,The Ultimate Fighter: Team Pulver vs. Team Penn Finale,2007-06-23,Palms Casino Resort,"Las Vegas, Nevada, U.S.",N/A,https://en.wikipedia.org/wiki/The_Ultimate_Fighter_5_Finale
+092,UFC 72: Victory,2007-06-16,The Odyssey,"Belfast, Northern Ireland, U.K.","7,850",https://en.wikipedia.org/wiki/UFC_72
+091,UFC Fight Night: Stout vs. Fisher,2007-06-12,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_Fight_Night:_Stout_vs._Fisher
+090,UFC 71: Liddell vs. Jackson,2007-05-26,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,728",https://en.wikipedia.org/wiki/UFC_71
+089,UFC 70: Nations Collide,2007-04-21,Manchester Evening News Arena,"Manchester, England, U.K.","15,114",https://en.wikipedia.org/wiki/UFC_70
+088,UFC 69: Shootout,2007-04-07,Toyota Center,"Houston, Texas, U.S.","15,269",https://en.wikipedia.org/wiki/UFC_69
+087,UFC Fight Night: Stevenson vs. Guillard,2007-04-05,Palms Casino Resort,"Las Vegas, Nevada, U.S.","1,734",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Stevenson_vs._Guillard#UFC_Fight_Night:_Stevenson_vs._Guillard
+086,UFC 68: The Uprising,2007-03-03,Nationwide Arena,"Columbus, Ohio, U.S.","19,079",https://en.wikipedia.org/wiki/UFC_68
+085,UFC 67: All or Nothing,2007-02-03,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,787",https://en.wikipedia.org/wiki/UFC_67
+084,UFC Fight Night: Evans vs. Salmon,2007-01-25,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida, U.S.","5,287",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Evans_vs._Salmon
+083,UFC 66: Liddell vs. Ortiz,2006-12-30,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,671",https://en.wikipedia.org/wiki/UFC_66
+082,UFC Fight Night: Sanchez vs. Riggs,2006-12-13,Marine Corps Air Station Miramar,"San Diego, California, U.S.","3,000",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Sanchez_vs._Riggs
+081,UFC 65: Bad Intentions,2006-11-18,ARCO Arena,"Sacramento, California, U.S.","14,666",https://en.wikipedia.org/wiki/UFC_65
+080,The Ultimate Fighter: The Comeback Finale,2006-11-11,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.","1,000",https://en.wikipedia.org/wiki/The_Ultimate_Fighter_4_Finale
+079,UFC 64: Unstoppable,2006-10-14,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,173",https://en.wikipedia.org/wiki/UFC_64
+078,UFC Fight Night 6.5,2006-10-10,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida, U.S.","3,510",https://en.wikipedia.org/wiki/Ortiz_vs._Shamrock_3:_The_Final_Chapter
+077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,"Anaheim, California, U.S.","12,604",https://en.wikipedia.org/wiki/UFC_63
+076,UFC 62: Liddell vs. Sobral,2006-08-26,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,503",https://en.wikipedia.org/wiki/UFC_62
+075,UFC Fight Night 6,2006-08-17,Red Rock Resort Spa and Casino,"Summerlin, Nevada, U.S.","1,412",https://en.wikipedia.org/wiki/UFC_Fight_Night:_Sanchez_vs._Parisyan
+074,UFC 61: Bitter Rivals,2006-07-08,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","11,167",https://en.wikipedia.org/wiki/UFC_61
+073,UFC Ultimate Fight Night 5,2006-06-28,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.",606,https://en.wikipedia.org/wiki/UFC_Ultimate_Fight_Night_5
+072,The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale,2006-06-24,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.",849,https://en.wikipedia.org/wiki/The_Ultimate_Fighter_3_Finale
+071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,"Los Angeles, California, U.S.","14,765",https://en.wikipedia.org/wiki/UFC_60
+070,UFC 59: Reality Check,2006-04-15,Arrowhead Pond of Anaheim,"Anaheim, California, U.S.","13,814",https://en.wikipedia.org/wiki/UFC_59
+069,UFC Ultimate Fight Night 4,2006-04-06,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.",843,https://en.wikipedia.org/wiki/UFC_Ultimate_Fight_Night_4
+068,UFC 58: USA vs. Canada,2006-03-04,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","9,569",https://en.wikipedia.org/wiki/UFC_58
+067,UFC 57: Liddell vs. Couture 3,2006-02-04,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,659",https://en.wikipedia.org/wiki/UFC_57
+066,UFC Ultimate Fight Night 3,2006-01-16,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.","1,008",https://en.wikipedia.org/wiki/UFC_Ultimate_Fight_Night_3
+065,UFC 56: Full Force,2005-11-19,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,000",https://en.wikipedia.org/wiki/UFC_56
+064,The Ultimate Fighter: Team Hughes vs. Team Franklin Finale,2005-11-05,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.",N/A,https://en.wikipedia.org/wiki/The_Ultimate_Fighter_2_Finale
+063,UFC 55: Fury,2005-10-07,Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","8,000",https://en.wikipedia.org/wiki/UFC_55
+062,UFC Ultimate Fight Night 2,2005-10-03,Hard Rock Hotel and Casino,"Las Vegas, Nevada, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_Ultimate_Fight_Night_2
+061,UFC 54: Boiling Point,2005-08-20,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,520",https://en.wikipedia.org/wiki/UFC_54
+060,UFC Ultimate Fight Night,2005-08-06,Cox Pavilion,"Las Vegas, Nevada, U.S.",N/A,
+059,UFC 53: Heavy Hitters,2005-06-04,Boardwalk Hall,"Atlantic City, New Jersey, U.S.","12,000",https://en.wikipedia.org/wiki/UFC_53
+058,UFC 52: Couture vs. Liddell,2005-04-16,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","14,562",https://en.wikipedia.org/wiki/UFC_52
+057,The Ultimate Fighter: Team Couture vs. Team Liddell Finale,2005-04-09,Cox Pavilion,"Las Vegas, Nevada, U.S.",N/A,https://en.wikipedia.org/wiki/The_Ultimate_Fighter_1_Finale
+056,UFC 51: Super Saturday,2005-02-05,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","11,072",https://en.wikipedia.org/wiki/UFC_51
+055,UFC 50: The War of '04,2004-10-22,Boardwalk Hall,"Atlantic City, New Jersey, U.S.","9,000",https://en.wikipedia.org/wiki/UFC_50
+054,UFC 49: Unfinished Business,2004-08-21,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","12,100",https://en.wikipedia.org/wiki/UFC_49
+053,UFC 48: Payback,2004-06-19,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,000",https://en.wikipedia.org/wiki/UFC_48
+052,UFC 47: It's On!,2004-04-02,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","11,437",https://en.wikipedia.org/wiki/UFC_47
+051,UFC 46: Supernatural,2004-01-31,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,700",https://en.wikipedia.org/wiki/UFC_46
+050,UFC 45: Revolution,2003-11-21,Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","9,200",https://en.wikipedia.org/wiki/UFC_45
+049,UFC 44: Undisputed,2003-09-26,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","10,400",https://en.wikipedia.org/wiki/UFC_44
+048,UFC 43: Meltdown,2003-06-06,Thomas & Mack Center,"Las Vegas, Nevada, U.S.","9,800",https://en.wikipedia.org/wiki/UFC_43
+047,UFC 42: Sudden Impact,2003-04-25,AmericanAirlines Arena,"Miami, Florida, U.S.","7,500",https://en.wikipedia.org/wiki/UFC_42
+046,UFC 41: Onslaught,2003-02-28,Boardwalk Hall,"Atlantic City, New Jersey, U.S.","11,707",https://en.wikipedia.org/wiki/UFC_41
+045,UFC 40: Vendetta,2002-11-22,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","13,770",https://en.wikipedia.org/wiki/UFC_40
+044,UFC 39: The Warriors Return,2002-09-27,Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","7,800",https://en.wikipedia.org/wiki/UFC_39
+043,UFC 38: Brawl at the Hall,2002-07-13,Royal Albert Hall,"London, England, U.K.","5,000",https://en.wikipedia.org/wiki/UFC_38
+042,UFC 37.5: As Real As It Gets,2002-06-22,Bellagio,"Las Vegas, Nevada, U.S.","3,700",https://en.wikipedia.org/wiki/UFC_37.5
+041,UFC 37: High Impact,2002-05-10,CenturyTel Center,"Bossier City, Louisiana, U.S.","7,200",https://en.wikipedia.org/wiki/UFC_37
+040,UFC 36: Worlds Collide,2002-03-22,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","10,000",https://en.wikipedia.org/wiki/UFC_36
+039,UFC 35: Throwdown,2002-01-11,Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","9,600",https://en.wikipedia.org/wiki/UFC_35
+038,UFC 34: High Voltage,2001-11-02,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.","9,000",https://en.wikipedia.org/wiki/UFC_34
+037,UFC 33: Victory in Vegas,2001-09-28,Mandalay Bay Events Center,"Las Vegas, Nevada, U.S.","9,500",https://en.wikipedia.org/wiki/UFC_33
+036,UFC 32: Showdown in the Meadowlands,2001-06-29,Continental Airlines Arena,"East Rutherford, New Jersey, U.S.","12,500",https://en.wikipedia.org/wiki/UFC_32
+035,UFC 31: Locked and Loaded,2001-05-04,Trump Taj Mahal,"Atlantic City, New Jersey, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_31
+034,UFC 30: Battle on the Boardwalk,2001-02-23,Trump Taj Mahal,"Atlantic City, New Jersey, U.S.","3,000",https://en.wikipedia.org/wiki/UFC_30
+033,UFC 29: Defense of the Belts,2000-12-16,Differ Ariake Arena,"Tokyo, Japan","1,414",https://en.wikipedia.org/wiki/UFC_29
+032,UFC 28: High Stakes,2000-11-17,Trump Taj Mahal,"Atlantic City, New Jersey, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_28
+031,UFC 27: Ultimate Bad Boyz,2000-09-22,Lakefront Arena,"New Orleans, Louisiana, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_27
+030,UFC 26: Ultimate Field of Dreams,2000-06-09,Five Seasons Events Center,"Cedar Rapids, Iowa, U.S.","1,100",https://en.wikipedia.org/wiki/UFC_26
+029,UFC 25: Ultimate Japan 3,2000-04-14,Yoyogi National Gymnasium,"Tokyo, Japan",N/A,https://en.wikipedia.org/wiki/UFC_25
+028,UFC 24: First Defense,2000-03-10,Lake Charles Civic Center,"Lake Charles, Louisiana, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_24
+027,UFC 23: Ultimate Japan 2,1999-11-19,Tokyo Bay NK Hall,"Chiba, Japan",N/A,https://en.wikipedia.org/wiki/UFC_23
+026,UFC 22: Only One Can be Champion,1999-09-24,Lake Charles Civic Center,"Lake Charles, Louisiana, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_22
+025,UFC 21: Return of the Champions,1999-07-16,Five Seasons Events Center,"Cedar Rapids, Iowa, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_21
+024,UFC 20: Battle for the Gold,1999-05-07,Boutwell Memorial Auditorium,"Birmingham, Alabama, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_20
+023,UFC 19: Ultimate Young Guns,1999-03-05,Casino Magic Bay St. Louis,"Bay St. Louis, Mississippi, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_19
+022,UFC 18: The Road to the Heavyweight Title,1999-01-08,Pontchartrain Center,"New Orleans, Louisiana, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_18
+021,UFC Brazil: Ultimate Brazil,1998-10-16,Ginásio da Portuguesa,"São Paulo, Brazil",N/A,https://en.wikipedia.org/wiki/UFC_Brazil
+020,UFC 17: Redemption,1998-05-15,Mobile Civic Center,"Mobile, Alabama, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_17
+019,UFC 16: Battle in the Bayou,1998-03-13,Pontchartrain Center,"New Orleans, Louisiana, U.S.","4,600",https://en.wikipedia.org/wiki/UFC_16
+018,UFC Japan: Ultimate Japan,1997-12-21,Yokohama Arena,"Yokohama, Japan","5,000",https://en.wikipedia.org/wiki/UFC_Japan:_Ultimate_Japan
+017,UFC 15: Collision Course,1997-10-17,Casino Magic Bay St. Louis,"Bay St. Louis, Mississippi, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_15
+016,UFC 14: Showdown,1997-07-27,Boutwell Memorial Auditorium,"Birmingham, Alabama, U.S.","5,000",https://en.wikipedia.org/wiki/UFC_14
+015,UFC 13: The Ultimate Force,1997-05-30,Augusta Civic Center,"Augusta, Georgia, U.S.","5,100",https://en.wikipedia.org/wiki/UFC_13
+014,UFC 12: Judgement Day,1997-02-07,Dothan Civic Center,"Dothan, Alabama, U.S.","3,100",https://en.wikipedia.org/wiki/UFC_12
+013,UFC: The Ultimate Ultimate 2,1996-12-07,Fair Park Arena,"Birmingham, Alabama, U.S.","6,000",https://en.wikipedia.org/wiki/Ultimate_Ultimate_1996
+012,UFC 11: The Proving Ground,1996-09-20,Augusta Civic Center,"Augusta, Georgia, U.S.","4,500",https://en.wikipedia.org/wiki/UFC_11
+011,UFC 10: The Tournament,1996-07-12,Fair Park Arena,"Birmingham, Alabama, U.S.","4,300",https://en.wikipedia.org/wiki/UFC_10
+010,UFC 9: Motor City Madness,1996-05-17,Cobo Arena,"Detroit, Michigan, U.S.","10,000",https://en.wikipedia.org/wiki/UFC_9
+009,UFC 8: David vs. Goliath,1996-02-16,Coliseo Rubén Rodríguez,"Bayamón, Puerto Rico","13,000",https://en.wikipedia.org/wiki/UFC_8
+008,UFC: The Ultimate Ultimate,1995-12-16,Mammoth Gardens,"Denver, Colorado, U.S.","2,800",https://en.wikipedia.org/wiki/Ultimate_Ultimate_1995
+007,UFC 7: The Brawl in Buffalo,1995-09-08,Buffalo Memorial Auditorium,"Buffalo, New York, U.S.","9,000",https://en.wikipedia.org/wiki/UFC_7
+006,UFC 6: Clash of the Titans,1995-07-14,Casper Events Center,"Casper, Wyoming, U.S.","2,700",https://en.wikipedia.org/wiki/UFC_6
+005,UFC 5: The Return of the Beast,1995-04-07,Independence Arena,"Charlotte, North Carolina, U.S.","6,000",https://en.wikipedia.org/wiki/UFC_5
+004,UFC 4: Revenge of the Warriors,1994-12-16,Expo Square Pavilion,"Tulsa, Oklahoma, U.S.","5,857",https://en.wikipedia.org/wiki/UFC_4
+003,UFC 3: The American Dream,1994-09-09,Grady Cole Center,"Charlotte, North Carolina, U.S.",N/A,https://en.wikipedia.org/wiki/UFC_3
+002,UFC 2: No Way Out,1994-03-11,Mammoth Gardens,"Denver, Colorado, U.S.","2,000",https://en.wikipedia.org/wiki/UFC_2
+001,UFC 1: The Beginning,1993-11-12,McNichols Sports Arena,"Denver, Colorado, U.S.","7,800",https://en.wikipedia.org/wiki/UFC_1
