@@ -92,7 +92,6 @@ def run_process(df, sleeptime = .01):
                 rowclass = row['class'][0]
                 betname = row.find('th').text
                 bets = row.find_all('td')
-                meancell = xpath_soup(bets[-2])
                 if betname.lower() == 'event props':
                     break
     
@@ -102,30 +101,19 @@ def run_process(df, sleeptime = .01):
                 
                 
                 bets = bets[0:-2]
-                bets.append(meancell)
-                lastcolindex = len(bets) - 1
                 # for each bet get the time series
                 for index, bet in enumerate(bets):
-        
-                    if index == lastcolindex:
-                        driver.find_element_by_xpath(meancell).click()
-                        driver.switch_to.active_element
-                        time.sleep(sleeptime)
-                    else:   
-                        #get chart to appear
-                        #sometimes field is populated with a nonsense value and must be skiped over
-                        try:
-                            # skip betting sites that didn't offer the bet
-                            if bet.text == '':
-                                continue
-                            betid = bet.span.span["id"]
-                            driver.find_element_by_id(betid).click()
-                            driver.switch_to.active_element
-                        except:
+					#get chart to appear
+					#sometimes field is populated with a nonsense value and must be skiped over
+                    try:
+                        if bet.text == '':
                             continue
-                        else:
-                            pass
-    
+                        betid = bet.span.span["id"]
+                        driver.find_element_by_id(betid).click()
+                        time.sleep(sleeptime)
+                        driver.switch_to.active_element
+                    except:
+                        continue
     
                     chart_number = driver.find_element_by_id('chart-area').get_attribute('data-highcharts-chart')
                     chart_data = driver.execute_script('return Highcharts.charts[' + chart_number + '].series[0].options.data')
@@ -147,7 +135,6 @@ def run_process(df, sleeptime = .01):
                         date_cell.click() # make chart disappear so it can't cover up the next cell
                     except:
                          driver.find_element_by_id("search-box1").click()
-                         time.sleep(sleeptime)
                 
                 
                 # comment/uncomment to expand prop bet rows if desired
@@ -162,6 +149,7 @@ def run_process(df, sleeptime = .01):
         except:
             print(url)
             print(args)
+            print(rowtable)
             driver.close()
             time.sleep(sleeptime)
             driver = webdriver.Firefox()
@@ -170,7 +158,6 @@ def run_process(df, sleeptime = .01):
         else:
             pass
  
-
            
 args = sys.argv
 eventlist = np.array_split(events, int(args[1]))
