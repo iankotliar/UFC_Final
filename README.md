@@ -10,14 +10,17 @@ This project consists of several steps:
 1. **Web Scraping & Data Munging**
     * I scraped data on betting odds from www.bestfightodds.com, which lists the odds offered by 12 popular betting sites for every UFC fight from 2008 to the present. I also scraped data from wikipedia on the outcomes of all UFC fights in this period. I focused on the UFC because to date it has always been the the most popular MMA promotion. 
     * I then merged the betting odds and fight outcomes data to determine whether each bet was succesful or not. 
-2. **Exploratory Data Analysis & Model Selection**
-    * I first created some summary statistics and visualizations to better understand the data.
-    * I then experimented with several different models which took the betting odds as inputs and returned the probability of a fighter winning as the output. To evalaute model performance, I divided the data into several test-training groups based on time period. Importantly, the time period of the test data was always subsequent to that of the training data. I then selected the best performing model.
+2. **Exploratory Data Analysis**
+    * I first tried several different techniques for deriving probabilities from betting odds (i.e. ways of removing overround). I found that the balanced book method seemed to produce the lowest log-likelihood accross all the betting sites accross almost all time periods, so I went with this method for calculating probabilities.
+    * I investigated whether the odds of some betting sites were more accurate than others at predicting outcomes. However, I found that after removing the vig the probabilities tended to be quite close to one another and no one site was better than the others at predicting outcomes (based on log-likelihood).
+    * I found that simply taking the average of the calculated probabilities of the betting sites produced a very good estimate of the true probability of a fighter winning, as the reliability plot fit almost perfectly on a 45 degree line. Using the probability of the site with the lowest Vig for each fight produced a similarly accurate estimate. 
+    * Interestingly, fighters whose implied average probability of winning accross the sites fell roughly within the 35% to 45% range seemed to win ~4% more often than their probabilities would suggest during the 2008 - 2020 period. 
 3. **Historical Profitability Analysis**
-    * Armed with a model for estimating each fighter's chance of winning, I investigated whether I would have been able to make a profit if I only placed bets at the highest odds offered and which I predicted had an expected value above a certain threshold. Because my probability of winning is derived from the betting odds of several sites, this essentially amounts to finding instances where a particular betting site is offering significantly higher odds than the others.
-4. **Model Deployment**
-    * I wrote code to scrape live betting odds data for upcoming UFC cards on www.bestfightodds.com, estimate and apply the model to predict each fighter's chance of winning, and return the predictions for each fighter's probability of winning and the expected value of each bet.
-
+    * I investigated whether I would have been able to make a profit if I only placed bets at the highest odds offered and which I predicted had an expected value above a certain threshold based on the average probability accross all the sites. Because my probability of winning is derived from the betting odds of several sites, this essentially amounts to finding instances of mispricing/cases where a particular betting site is offering significantly higher odds than the others. This method seemed to have some success, especially in recent years.
+   * I investigated whether betting on fighters with average probability of winning in the 37% to 43% range would have made money. This strategy made money between 2013 to the present, but generally lost money in prior years. It seems that the overperformance of underdog fighters in this range has only existed for the past several years. However, the overperformance seems to have been driven by chance. What likely happened in these cases is that fans wanted to bet on one side of what was essentially of a 50-50 match up, leading to the imbalanced odds. 
+4. **Future Work**
+   * Since I have data not only on closing odds but also the entire history of the odds going back weeks before each fight, it would be interesting to see if a time series analysis could find patterns that identify bets with positive expected value. 
+  
 If you're not familliar with sports betting, you may find it helpful to read the section on bet odds formats, implied probabilities and overround.
 
 # Table of Contents #
