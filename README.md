@@ -84,7 +84,7 @@ Although bookmakers' odds contain valuable information about the likelihood of a
 
 Empirical evidence suggests that bookmakers apply overround to both sides of a bet, with a greater portion being applied to the underdog. This is why sports bets on average lose money, and bets on longshots will on average lose even more money than bets on favorites. One commonly used approach for estimating probabilities from decimal odds is to divide the fair-odds probabilities by one plus the total amount of overround. For example, this approach would conclude that McGregor and Aldo will win with probabilities of 49%/106% = 46% and 57%/106% = 54% respecitvely. While this method is simple to calculate, it tends to overestimate the underdog's chance of winning, as it does not fully account for the disproportionate juice applied to the underdog. A number of other approaches have been developed to estimate probabilities from odds that account for this phenomenon. 
 
-The approach that I found works best for head-to-head UFC betting is known as the balanced book approach. The approach yields probabilities from decimal odds using the formula: probability = ((1/decimal odds) - vig)/(1- vig). This approach ignores the possibility of draws, which historically have occured less than 1% of the time.
+The approach that I found works best for head-to-head UFC betting is known as the balanced book approach. The approach yields probabilities from decimal odds using the formula: probability = ((1/decimal odds) - vig)/(1- vig) where vig is defined as (1/decimal_odds_1 + 1/decimal_odds_2 - 1) This approach ignores the possibility of draws, which historically have occured less than 1% of the time.
 
 
 ## Historical Profitability Analysis
