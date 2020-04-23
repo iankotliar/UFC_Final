@@ -10,10 +10,12 @@ This project consists of several steps:
 1. **Web Scraping & Data Munging**
     * I scraped data on betting odds from www.bestfightodds.com, which lists the odds offered by 12 popular betting sites for every UFC fight from 2008 to the present. I also scraped data from wikipedia on the outcomes of all UFC fights in this period. I focused on the UFC because to date it has always been the the most popular MMA promotion. 
     * I then merged the betting odds and fight outcomes data to determine whether each bet was succesful or not. 
-2. **Comparing Techniques for Calculating Probabilities from Decimal Odds**
+2. **Comparing Techniques for Calculating Probabilities from Decimal Odds**   
+    * [Notebook](code/Analysis/Optimal%20Overround%20Removal%20Strategy/6_Determine_Overround_Removal_Strategy.ipynb)
     * I first compared several different techniques for deriving probabilities from betting odds (i.e. ways of removing overround). I found that the balanced book method seemed to produce the lowest log-likelihood accross all the betting sites accross almost all time periods, so I went with this method for calculating probabilities from odds.
     * I investigated whether the odds of some betting sites were more accurate than others at predicting outcomes. However, I found that after removing the vig the probabilities from each site tended to be quite close to one another and no one site was better than the others at predicting outcomes (based on log-likelihood).
 3. **Exploratory Data Analysis & Historical Profitability Analysis**
+    * [Notebook](code/Analysis/Exploratory/7_explore_data.ipynb)
     * I found that simply taking the average of the calculated probabilities of the betting sites produced a very good estimate of the true probability of a fighter winning, as the reliability plot fit almost perfectly on a 45 degree line. Using the probability of the site with the lowest Vig for each fight produced a similarly accurate estimate. 
     * Interestingly, fighters whose implied average probability of winning accross the sites fell roughly within the 35% to 45% range seemed to win ~4% more often than their probabilities would suggest during the 2008 - 2020 period. 
     * I investigated whether I would have been able to make a profit if I only placed bets at the highest odds offered and which I predicted had an expected value above a certain threshold based on the average probability accross all the sites. Because my probability of winning is derived from the betting odds of several sites, this essentially amounts to finding instances of mispricing/cases where a particular betting site is offering significantly higher odds than the others. This method showed some success in recent years but less prior to 2013.
