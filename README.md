@@ -5,8 +5,7 @@ Predicting sports results is both an art and science, as the most accurate predi
 
 Given the limited use of data in MMA predictions, I wondered if I could nevertheless find a way to use data to accurately predict fight outcomes. It occured to me that instead of using information about the fighters as inputs to a prediction model, I could instead use the betting odds offered by sports betting sites, since betting odds have been shown to be excellent predictors of sports results accross a wide variety of sports. This idea led to the project stored in this respositoy.
 
-This project consists of several steps:
-
+## Project Steps
 1. **Web Scraping & Data Munging**
     * I scraped data on betting odds from www.bestfightodds.com, which lists the odds offered by 12 popular betting sites for every UFC fight from 2008 to the present. I also scraped data from wikipedia on the outcomes of all UFC fights in this period. I focused on the UFC because to date it has always been the the most popular MMA promotion. 
     * I then merged the betting odds and fight outcomes data to determine whether each bet was succesful or not. 
@@ -22,22 +21,13 @@ This project consists of several steps:
     * Because the average of the balanced book probabilities is such an accurate predictor of fight outcomes, I wondered if I could use it to detect betting opportunities with positve expected value from sites offering mispriced odds. However, I found that the "balanced book" probabilities accross sites tended to be very close to the average, and after accounting for the vig only very marginal opportunities seemed to exist. As a result, there were almost no opportunities that I calculated to have an expected return greater than 5%. The high degree of concordance accross betting sites is another indication of the high level of efficiency in the UFC betting market. While a strategy based on only placing bets with a calculated expected return greater than a selected threshold (e.g. 2%, 3%, 4%, 5%) did make money in most years, it did not produce a worthwhile risk-reward profile based on the average and standard deviation of returns. 
 4. **Future Work**
    * Since I have data not only on closing odds but also the entire history of the odds going back weeks before each fight, it would be interesting to see if a time series analysis could find patterns that identify bets with positive expected value. 
-  
-If you're not familliar with sports betting, you may find it helpful to read the section on bet odds formats, implied probabilities and overround.
+## Additional Information
+If you're not familliar with sports betting, you may find it helpful to read the additional information sections.
 
-# Table of Contents #
+# Additional Information #
 [Bet Odds Formats, Implied Probabilities & Overround](#bet-formats-implied-probabilities--overround)
 
 [Historical Profitability Analysis](#historical-profitability-analysis)
-
-
-## Historical Profitability Analysis
-
-Suppose a bet is offered with decimal odds *d*, the probability of winning is *p*, and you'd like to earn an expected value of at least *r* per dollar staked. This is equivalent to the condition
-
-<img src="https://render.githubusercontent.com/render/math?math=p \ge \frac{1 %2B r}{d}">
-
-Using an estimate of *p* derived from closing betting odds, I analyzed how much money I would have made if I only placed bets at the highest odds offered by each site and which met the condition above for different values of *r*, in effect looking for fights where a particular betting site was offering much higher odds relative to other sites. Although requiring a higher value of *r* should lead to a higher expected profit per bet, this also limits the number of bets one can place (since fewer fights will pass the threshold).
 
 ## Bet Formats, Implied Probabilities & Overround
 
@@ -95,3 +85,12 @@ Although bookmakers' odds contain valuable information about the likelihood of a
 Empirical evidence suggests that bookmakers apply overround to both sides of a bet, with a greater portion being applied to the underdog. This is why sports bets on average lose money, and bets on longshots will on average lose even more money than bets on favorites. One commonly used approach for estimating probabilities from decimal odds is to divide the fair-odds probabilities by one plus the total amount of overround. For example, this approach would conclude that McGregor and Aldo will win with probabilities of 49%/106% = 46% and 57%/106% = 54% respecitvely. While this method is simple to calculate, it tends to overestimate the underdog's chance of winning, as it does not fully account for the disproportionate juice applied to the underdog. A number of other approaches have been developed to estimate probabilities from odds that account for this phenomenon. 
 
 The approach that I found works best for head-to-head UFC betting is known as the balanced book approach. The approach yields probabilities from decimal odds using the formula: probability = ((1/decimal odds) - vig)/(1- vig). This approach ignores the possibility of draws, which historically have occured less than 1% of the time.
+
+
+## Historical Profitability Analysis
+
+Suppose a bet is offered with decimal odds *d*, the probability of winning is *p*, and you'd like to earn an expected value of at least *r* per dollar staked. This is equivalent to the condition
+
+<img src="https://render.githubusercontent.com/render/math?math=p \ge \frac{1 %2B r}{d}">
+
+Using an estimate of *p* derived from closing betting odds, I analyzed how much money I would have made if I only placed bets at the highest odds offered by each site and which met the condition above for different values of *r*, in effect looking for fights where a particular betting site was offering much higher odds relative to other sites. Although requiring a higher value of *r* should lead to a higher expected profit per bet, this also limits the number of bets one can place (since fewer fights will pass the threshold).
