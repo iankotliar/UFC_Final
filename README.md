@@ -37,7 +37,7 @@ Suppose a bet is offered with decimal odds *d*, the probability of winning is *p
 
 <img src="https://render.githubusercontent.com/render/math?math=p \ge \frac{1 %2B r}{d}">
 
-Using my model's estimate of *p*, I analyzed how much money I would have made if I only placed bets at the highest odds offered by each site and which met the condition above for different values of *r*, in effect looking for fights where a particular betting site was offering much higher odds relative to other sites. Although requiring a higher value of *r* should lead to a higher expected profit per bet, this also limits the number of bets one can place (since fewer fights will pass the threshold).
+Using an estimate of *p* derived from closing betting odds, I analyzed how much money I would have made if I only placed bets at the highest odds offered by each site and which met the condition above for different values of *r*, in effect looking for fights where a particular betting site was offering much higher odds relative to other sites. Although requiring a higher value of *r* should lead to a higher expected profit per bet, this also limits the number of bets one can place (since fewer fights will pass the threshold).
 
 ## Bet Formats, Implied Probabilities & Overround
 
